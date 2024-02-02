@@ -21,383 +21,331 @@ Style: Texting,Trebuchet MS,24,&H00353431,&H000000FF,&H00FEFEFB,&H00ACA094,0,0,0
 Style: Next Ep,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00D7D485,&H00A09D9B,0,0,0,0,100,100,0,0,1,3,0,2,0010,0010,0246,1
 Style: Next Ep Title,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00616E71,&H00616E71,-1,0,0,0,100,100,0,0,1,0,2,8,0010,0010,0207,1
 Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0018,1
-Style: sign_33939_246_Outdoor_Activiti,Arial,12,&H00010101,&H000000FF,&H009CB9F7,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,2,0465,0020,0040,1
-Style: sign_33939_243_When_camping___,Arial,18,&H00010101,&H000000FF,&H009CB9F7,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0065,1
-Style: sign_34047_283_Missing,Arial,14,&H00010101,&H000000FF,&H009CB9F7,&H00FFFFFF,0,0,0,0,100,100,0,0,1,4,0,7,0371,0020,0120,1
+Style: sign_33939_246_Outdoor_Activiti,Arial,12,&H00010101,&H000000FF,&H009A7458,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,2,0465,0020,0040,1
+Style: sign_33939_243_When_camping___,Arial,18,&H00010101,&H000000FF,&H009A7458,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0065,1
+Style: sign_34047_283_Missing,Arial,14,&H00010101,&H000000FF,&H009A7458,&H00FFFFFF,0,0,0,0,100,100,0,0,1,4,0,7,0371,0020,0120,1
 Style: Generic caption (B&W),Arial,18,&H00171717,&H000000FF,&H00FCFCFC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0085,1
 Style: Pinecone says,Comic Sans MS,16,&H000F0F0A,&H000000FF,&H00EDEDED,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0218,0188,0292,1
 Style: Inu Inu Inuko-san,Times New Roman,28,&H00356EE7,&H000000FF,&H00DCEFEE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
-Style: sign_12867_170_Tell_family_wher,Arial,30,&H00110A93,&H000000FF,&H005346CC,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,2,0024,0020,0216,1
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
-Dialogue: 0,0:00:14.17,0:00:17.74,Main_Italics,Person A,0000,0000,0000,,Nishifujinomiya. Nishifujinomiya.
-Dialogue: 0,0:00:17.99,0:00:20.24,Texting,Text,0000,0000,0000,,{\an1\fnArial\fs14\pos(127,292)}I'm at Fujinomiya
-Dialogue: 0,0:00:20.60,0:00:22.71,Main_Italics,Nadeshiko,0000,0000,0000,,This is way closer than Kofu.
-Dialogue: 0,0:00:24.85,0:00:25.50,Main,Nadeshiko,0000,0000,0000,,Okay!
-Dialogue: 0,0:00:25.94,0:00:27.18,Main,Nadeshiko,0000,0000,0000,,Off I go!
-Dialogue: 0,0:00:27.82,0:00:30.26,Main,Nadeshiko,0000,0000,0000,,Fujinomiya's known for yakisoba, right?
-Dialogue: 0,0:00:31.32,0:00:33.18,Main,Nadeshiko,0000,0000,0000,,I can't wait!
-Dialogue: 0,0:02:06.14,0:02:08.25,Main,Saito,0000,0000,0000,,This is Cape Ohmama.
-Dialogue: 0,0:02:08.88,0:02:10.89,Main,Nadeshiko,0000,0000,0000,,What a nice view of Mt. Fuji!
-Dialogue: 0,0:02:10.89,0:02:13.48,Main,Saito,0000,0000,0000,,This is the kiritanpo \Nhot pot we had together.
-Dialogue: 0,0:02:13.48,0:02:15.44,Main,Nadeshiko,0000,0000,0000,,It turned out nice, didn't it?
-Dialogue: 0,0:02:15.63,0:02:20.24,Main,Saito,0000,0000,0000,,Kiritanpo is like something in between \Nfried rice balls and fried rice cakes, huh?
-Dialogue: 0,0:02:20.61,0:02:22.45,Main,Saito,0000,0000,0000,,Wait, never mind that photo...
-Dialogue: 0,0:02:23.13,0:02:28.43,Main,Saito,0000,0000,0000,,And this is Iida-san and her dad, \Nwho saved us from the freezing cold.
-Dialogue: 0,0:02:29.09,0:02:30.66,Main,Nadeshiko,0000,0000,0000,,Toba-sensei's there, too!
-Dialogue: 0,0:02:31.29,0:02:34.25,Main,Saito,0000,0000,0000,,Rin told Sensei what was going on.
-Dialogue: 0,0:02:34.25,0:02:36.47,Main,Saito,0000,0000,0000,,If she hadn't, who knows\N what would've happened?
-Dialogue: 0,0:02:36.47,0:02:37.45,Main,Nadeshiko,0000,0000,0000,,Same with me!
-Dialogue: 0,0:02:37.45,0:02:40.34,Main,Nadeshiko,0000,0000,0000,,Rin-chan saved me at Lake Motosu, too.
-Dialogue: 0,0:02:41.17,0:02:45.64,Main,Saito,0000,0000,0000,,We're gonna have to call her "Shimarin-sama"\N out of gratitude and reverence!
-Dialogue: 0,0:02:45.64,0:02:47.39,Main,Nadeshiko,0000,0000,0000,,You're right, Ena-chan!
-Dialogue: 0,0:02:49.59,0:02:53.49,Main,Saito,0000,0000,0000,,Great Shimarin-sama, \Nplease accept our offering.
-Dialogue: 0,0:02:53.49,0:02:55.67,Main,Nadeshiko,0000,0000,0000,,Praise be. Praise be.
-Dialogue: 0,0:02:55.67,0:02:56.75,Main,Rin,0000,0000,0000,,No worshiping.
-Dialogue: 0,0:02:57.32,0:03:05.66,Ep Title,Rin,0000,0000,0000,,{\fad(890,1)}(2) Episode 7 \N{\c&HFFFFFF&\fs20}Nadeshiko{\c&H4A84ED&}'s {\c&HFFFFFF&}Solo Camp {\c&H4A84ED&}Planning
-Dialogue: 0,0:03:00.04,0:03:02.45,Main_Top,Saito,0000,0000,0000,,Wait, do you not have Outclub today?
-Dialogue: 0,0:03:02.45,0:03:05.66,Main_Top,Nadeshiko,0000,0000,0000,,The others have to work, so we're not meeting.
-Dialogue: 0,0:03:06.02,0:03:10.59,Main,Nadeshiko,0000,0000,0000,,I haven't been able to do anything with \Nthe club since I started work, either.
-Dialogue: 0,0:03:10.98,0:03:12.70,Main,Nadeshiko,0000,0000,0000,,I kind of miss it.
-Dialogue: 0,0:03:12.70,0:03:14.08,Main,Saito,0000,0000,0000,,I see...
-Dialogue: 0,0:03:14.77,0:03:15.89,Main,Nadeshiko,0000,0000,0000,,Hey, Ena-chan!
-Dialogue: 0,0:03:15.89,0:03:18.66,Main,Nadeshiko,0000,0000,0000,,Why don't the three of us hold\N an emergency Outclub meeting?
-Dialogue: 0,0:03:18.66,0:03:20.66,Main,Saito,0000,0000,0000,,Hey, good idea, Nadeshiko-chan.
-Dialogue: 0,0:03:20.66,0:03:22.43,Main,Rin,0000,0000,0000,,I never gave you permission to include me.
-Dialogue: 0,0:03:23.94,0:03:26.90,Main,Saito,0000,0000,0000,,Then again, I have somewhere \Nto be today myself.
-Dialogue: 0,0:03:28.40,0:03:29.64,Main,Saito,0000,0000,0000,,See you.
-Dialogue: 0,0:03:32.77,0:03:36.11,Main,Rin,0000,0000,0000,,By the way, Nadeshiko, are you \Nserious about going solo camping?
-Dialogue: 0,0:03:36.11,0:03:37.04,Main,Nadeshiko,0000,0000,0000,,Yeah.
-Dialogue: 0,0:03:37.04,0:03:40.30,Main,Nadeshiko,0000,0000,0000,,I'm thinking of going this week \Nsince I have time off work.
-Dialogue: 0,0:03:40.30,0:03:41.73,Main,Rin,0000,0000,0000,,Why, though?
-Dialogue: 0,0:03:41.73,0:03:42.45,Main,Nadeshiko,0000,0000,0000,,Remember?
-Dialogue: 0,0:03:42.91,0:03:48.74,Main,Nadeshiko,0000,0000,0000,,You said solo camping is a totally different \Nexperience from camping with other people.
-Dialogue: 0,0:03:48.74,0:03:52.19,Main,Nadeshiko,0000,0000,0000,,That made me want to try it, too.
-Dialogue: 0,0:03:55.14,0:03:59.25,Main,Nadeshiko,0000,0000,0000,,So I figured I'd ask you\N all about solo camping!
-Dialogue: 0,0:03:59.25,0:04:01.90,Main_Italics,Rin,0000,0000,0000,,I never realized I was encouraging her.
-Dialogue: 0,0:04:01.90,0:04:04.55,Main,Nadeshiko,0000,0000,0000,,How do you usually pick a place to camp?
-Dialogue: 0,0:04:06.22,0:04:11.05,Main,Rin,0000,0000,0000,,I search for "campsites" on \NGlueglue Maps to find a few spots,
-Dialogue: 0,0:04:11.05,0:04:14.71,Main,Rin,0000,0000,0000,,then do some research to \Nfind out more about them.
-Dialogue: 0,0:04:14.73,0:04:18.48,Main,Text,0000,0000,0000,,{\fad(230,1)\fnArial\fs12\shad0\bord0\c&H242523&\an1\frz20\pos(236,24)}Campsites
-Dialogue: 0,0:04:15.19,0:04:18.48,Main,Nadeshiko,0000,0000,0000,,Oh, yeah, it might be easier \Nto find a place on Maps.
-Dialogue: 0,0:04:18.73,0:04:22.16,Main,Rin,0000,0000,0000,,It's also a good idea to \Ncheck out campers' blogs.
-Dialogue: 0,0:04:22.16,0:04:25.71,Main,Rin,0000,0000,0000,,They talk about things you wouldn't \Nknow unless you went there.
-Dialogue: 0,0:04:25.71,0:04:27.54,Main,Nadeshiko,0000,0000,0000,,Oh, this place seems nice.
-Dialogue: 0,0:04:28.31,0:04:30.61,Main,Nadeshiko,0000,0000,0000,,Look, the view is great.
-Dialogue: 0,0:04:30.61,0:04:31.99,Main,Rin,0000,0000,0000,,Oh, here?
-Dialogue: 0,0:04:31.99,0:04:34.13,Main,Nadeshiko,0000,0000,0000,,It's way up in the mountains, though.
-Dialogue: 0,0:04:34.13,0:04:35.75,Main,Nadeshiko,0000,0000,0000,,It might be too hard to walk up.
-Dialogue: 0,0:04:35.75,0:04:38.57,Main,Rin,0000,0000,0000,,Wait, aren't you getting \Na ride from Sakura-san?
-Dialogue: 0,0:04:38.57,0:04:39.49,Main,Nadeshiko,0000,0000,0000,,Nah.
-Dialogue: 0,0:04:39.49,0:04:43.56,Main,Nadeshiko,0000,0000,0000,,Since I'm solo camping, I'm thinking \Nof going on foot from the train or bus.
-Dialogue: 0,0:04:43.92,0:04:49.88,Main,Nadeshiko,0000,0000,0000,,Besides, I'm pretty sure if I told her\NI'm going camping alone, she'd say no.
-Dialogue: 0,0:04:47.62,0:04:49.16,Main,Onee-chan,0000,0000,0000,,{\an8\i1}By yourself?!{\i0}
-Dialogue: 0,0:04:51.56,0:04:53.96,Main,Rin,0000,0000,0000,,What are you going to tell \Nher when you leave, then?
-Dialogue: 0,0:04:53.96,0:04:56.77,Main,Nadeshiko,0000,0000,0000,,I-I think I'll tell her \NI'm going with my friends.
-Dialogue: 0,0:04:58.36,0:05:00.22,Main,Nadeshiko,0000,0000,0000,,You're so lucky, Rin-chan.
-Dialogue: 0,0:05:00.22,0:05:02.30,Main,Nadeshiko,0000,0000,0000,,You get to go anywhere \Nyou want on your moped.
-Dialogue: 0,0:05:02.86,0:05:05.28,Main,Nadeshiko,0000,0000,0000,,Maybe I should get a license, too...
-Dialogue: 0,0:05:05.44,0:05:06.71,Main_Italics,Rin,0000,0000,0000,,She'd fall over.
-Dialogue: 0,0:05:06.71,0:05:08.71,Main_Italics,Rin,0000,0000,0000,,She'd get stranded without gas.
-Dialogue: 0,0:05:08.71,0:05:10.90,Main_Italics,Rin,0000,0000,0000,,She'd take the wrong route and get lost.
-Dialogue: 0,0:05:09.58,0:05:11.54,Main,Nadeshiko,0000,0000,0000,,Your face says no...
-Dialogue: 0,0:05:11.91,0:05:15.48,Main,Nadeshiko,0000,0000,0000,,So, is there anything else to keep in mind?
-Dialogue: 0,0:05:15.48,0:05:17.04,Main,Rin,0000,0000,0000,,Let me think...
-Dialogue: 0,0:05:17.12,0:05:20.54,Main,Text,0000,0000,0000,,{\fad(690,430)\fnArial\fs18\bord1\shad0\c&H45C9DF&\pos(341,127)}Shimarin's\N{\b1\fs26\bord0\c&H29323A&}Camping Course
-Dialogue: 0,0:05:17.68,0:05:20.36,Main_Italics,Narrator,0000,0000,0000,,Shimarin's Camping Course.
-Dialogue: 0,0:05:20.83,0:05:24.96,Main_Italics,Narrator,0000,0000,0000,,One: choose a campsite that's \Nwithin cellular range.
-Dialogue: 0,0:05:20.88,0:05:24.94,Generic caption (B&W),Text,0000,0000,0000,,{\fad(440,558)\an1\fs14\pos(107,259)}Choose a campsite that's \Nwithin cellular range
-Dialogue: 0,0:05:22.05,0:05:24.47,Pinecone says,Text,0000,0000,0000,,{\pos(578,120)\fad(1,620)}Hello?
-Dialogue: 0,0:05:22.80,0:05:24.72,Pinecone says,Text,0000,0000,0000,,{\fad(1,620)\pos(346,170)}Tempura \Nsoba \Ndelivery, \Nplease
-Dialogue: 0,0:05:24.82,0:05:32.80,Main,Text,0000,0000,0000,,{\an8\fnComic Sans Ms\fad(80,1)\fs20\pos(320,42)\shad0\3c&H5E8CB5&}No signal
-Dialogue: 0,0:05:24.96,0:05:29.04,Main,Rin,0000,0000,0000,,Otherwise, you can't call for \Nhelp when you're in trouble.
-Dialogue: 0,0:05:29.04,0:05:32.23,Main,Rin,0000,0000,0000,,And you can't look up information online.
-Dialogue: 0,0:05:33.14,0:05:36.85,Generic caption (B&W),Text,0000,0000,0000,,{\fad(440,190)\an1\fs14\pos(107,259)}Let friends and family \Nknow where you're going
-Dialogue: 0,0:05:33.15,0:05:37.13,Main_Italics,Narrator,0000,0000,0000,,Two: let friends and family \Nknow where you're going.
-Dialogue: 0,0:05:37.13,0:05:38.81,Main,Rin,0000,0000,0000,,Especially if you're going by yourself.
-Dialogue: 0,0:05:38.90,0:05:42.11,Generic caption (B&W),Text,0000,0000,0000,,{\fad(440,190)\an1\fs14\pos(112.143,271)}Do thorough research
-Dialogue: 0,0:05:39.13,0:05:42.46,Main_Italics,Narrator,0000,0000,0000,,Three: do thorough research.
-Dialogue: 0,0:05:42.46,0:05:44.46,Main,Nadeshiko,0000,0000,0000,,Like about where the campsite is?
-Dialogue: 0,0:05:44.46,0:05:46.00,Main,Rin,0000,0000,0000,,Among other things.
-Dialogue: 0,0:05:46.00,0:05:48.48,Main,Rin,0000,0000,0000,,Sometimes the faucets \Ndon't work in the winter.
-Dialogue: 0,0:05:48.48,0:05:50.41,Main,Rin,0000,0000,0000,,And sometimes the toilets are nasty.
-Dialogue: 0,0:05:50.41,0:05:52.62,Main,Nadeshiko,0000,0000,0000,,Yeah, that would suck...
-Dialogue: 0,0:05:52.83,0:05:59.29,Main,Text,0000,0000,0000,,{\fad(1,390)\an8\fs12\shad0\bord1\pos(91,138)\c&H393939&\3c&HE7ECEB&}Hokuto
-Dialogue: 0,0:05:52.83,0:05:59.29,Main,Text,0000,0000,0000,,{\fad(1,390)\an8\fs12\shad0\bord1\c&H393939&\3c&HE7ECEB&\pos(90,227)}Nirasaki
-Dialogue: 0,0:05:52.83,0:05:59.29,Main,Text,0000,0000,0000,,{\fad(1,390)\an8\fs12\shad0\bord1\c&H393939&\3c&HE7ECEB&\pos(289,138)}Kofu
-Dialogue: 0,0:05:52.83,0:05:59.29,Main,Text,0000,0000,0000,,{\fad(1,390)\an8\fs12\shad0\bord1\c&H393939&\3c&HE7ECEB&\pos(420,139)}Koshu
-Dialogue: 0,0:05:52.83,0:05:59.29,Main,Text,0000,0000,0000,,{\fad(1,390)\an8\fs12\shad0\bord1\c&H393939&\3c&HE7ECEB&\pos(279,276)}Fuefuki
-Dialogue: 0,0:05:52.83,0:05:59.29,Main,Text,0000,0000,0000,,{\fad(1,390)\an8\fs12\shad0\bord1\c&H393939&\3c&HE7ECEB&\pos(396,252)}Yamanashi
-Dialogue: 0,0:05:52.83,0:05:59.29,Main,Text,0000,0000,0000,,{\fad(1,390)\an8\fs12\shad0\bord1\c&H393939&\3c&HE7ECEB&\pos(551,138)}Ohtsuki
-Dialogue: 0,0:05:52.83,0:05:59.29,Main,Text,0000,0000,0000,,{\fad(1,390)\an8\fs12\shad0\bord1\c&H393939&\3c&HE7ECEB&\pos(555,224)}Uenohara
-Dialogue: 0,0:05:52.83,0:05:59.29,Main,Text,0000,0000,0000,,{\fad(1,390)\an8\fs12\shad0\bord1\c&H393939&\3c&HE7ECEB&\pos(553,310)}Lake Yamanaka
-Dialogue: 0,0:05:52.91,0:05:57.12,Generic caption (B&W),Text,0000,0000,0000,,{\fad(440,190)\an1\fs14\pos(108,272)}Check the weather first
-Dialogue: 0,0:05:53.19,0:05:56.84,Main_Italics,Narrator,0000,0000,0000,,Four: check the weather first.
-Dialogue: 0,0:05:57.24,0:05:59.59,Main,Nadeshiko,0000,0000,0000,,I already do that!
-Dialogue: 0,0:05:59.29,0:06:03.32,Main,,0000,0000,0000,,{\fad(1,390)\an8\fs12\shad0\bord1\c&H393939&\3c&HE7ECEB&\pos(102,163)}Kofu
-Dialogue: 0,0:05:59.29,0:06:03.32,Main,,0000,0000,0000,,{\fad(1,390)\an8\fs12\shad0\bord1\c&H393939&\3c&HE7ECEB&\pos(105,275)}Lake Yamanaka
-Dialogue: 0,0:05:59.59,0:06:03.81,Main,Rin,0000,0000,0000,,You have to check the temperature graph to \Nfind out how cold it's going to get and when.
-Dialogue: 0,0:06:03.81,0:06:06.76,Main,Rin,0000,0000,0000,,Chiaki and the others were kind of in \Ndanger because they didn't do that.
-Dialogue: 0,0:06:08.18,0:06:12.14,Generic caption (B&W),Text,0000,0000,0000,,{\fad(440,190)\an1\fs14\pos(107,259)}Decide what you're going to \Ndo when you get to the campsite
-Dialogue: 0,0:06:08.59,0:06:12.17,Main_Italics,Narrator,0000,0000,0000,,Five: decide what you're going to \Ndo when you get to the campsite.
-Dialogue: 0,0:06:09.13,0:06:09.64,Pinecone says,Text,0000,0000,0000,,{\frz10\fs12\pos(225,76)\3c&H695C77&}Decorative Book
-Dialogue: 0,0:06:09.64,0:06:10.14,Pinecone says,Text,0000,0000,0000,,{\frz-17\fs12\3c&H729DBA&\pos(201,70)}Decorative Book
-Dialogue: 0,0:06:10.14,0:06:10.64,Pinecone says,Text,0000,0000,0000,,{\fs12\3c&H85877D&\pos(216,63)}Decorative Book
-Dialogue: 0,0:06:10.64,0:06:16.48,Pinecone says,Text,0000,0000,0000,,{\frz-32\fs12\3c&HAE8067&\pos(244,60)}Decorative Book
-Dialogue: 0,0:06:12.17,0:06:13.39,Main,Narrator,0000,0000,0000,,What I'm going to do?
-Dialogue: 0,0:06:13.39,0:06:16.72,Main,Rin,0000,0000,0000,,You'll get bored if you go \Nsolo camping without plans.
-Dialogue: 0,0:06:16.72,0:06:19.99,Main_Italics,Narrator,0000,0000,0000,,Start a fire, have a meal...
-Dialogue: 0,0:06:20.71,0:06:21.64,Main_Italics,Narrator,0000,0000,0000,,The end.
-Dialogue: 0,0:06:21.64,0:06:22.79,Main,Rin,0000,0000,0000,,That's what happens.
-Dialogue: 0,0:06:23.31,0:06:25.00,Main,Narrator,0000,0000,0000,,What to do, huh?
-Dialogue: 0,0:06:25.00,0:06:26.51,Main,Rin,0000,0000,0000,,It can be anything.
-Dialogue: 0,0:06:26.51,0:06:30.11,Main,Rin,0000,0000,0000,,You can knit or take a \Nwalk around the campsite.
-Dialogue: 0,0:06:33.51,0:06:36.26,Main,Sensei,0000,0000,0000,,Sake, sake...
-Dialogue: 0,0:06:36.68,0:06:37.61,Main,Sensei,0000,0000,0000,,Found it.
-Dialogue: 0,0:06:37.50,0:06:40.12,Generic caption (B&W),Text,0000,0000,0000,,{\frz18\fnTimes New Roman\b1\pos(241,188)\3c&HDEF2E5&}Ikeike
-Dialogue: 0,0:06:37.61,0:06:40.12,Main,Text,0000,0000,0000,,This is the one I had in Iida-san's tent.
-Dialogue: 0,0:06:42.53,0:06:45.63,Main_Italics,Text,0000,0000,0000,,That sake was so good, and it \Npaired so well with the hot pot.
-Dialogue: 0,0:06:45.91,0:06:47.88,Main,Ohmachi,0000,0000,0000,,I heard what happened, Toba-sensei.
-Dialogue: 0,0:06:48.82,0:06:51.97,Main,Ohmachi,0000,0000,0000,,That you went to Lake Yamanaka \Nto pick up Ohgaki and the others.
-Dialogue: 0,0:06:52.40,0:06:54.77,Main,Ohmachi,0000,0000,0000,,Good thing nothing bad happened, huh?
-Dialogue: 0,0:06:54.77,0:06:56.88,Main,Sensei,0000,0000,0000,,Yes, it really is.
-Dialogue: 0,0:06:56.88,0:06:59.35,Main,Ohmachi,0000,0000,0000,,Hey, that's Ikeike.
-Dialogue: 0,0:06:59.35,0:07:00.89,Main,Sensei,0000,0000,0000,,You know of it?
-Dialogue: 0,0:07:01.21,0:07:06.21,Main,Ohmachi,0000,0000,0000,,A local sake shop recommended it to me when \NI went to Izu with my hiking club last year.
-Dialogue: 0,0:07:06.21,0:07:08.00,Main,Ohmachi,0000,0000,0000,,Izu's great, isn't it?
-Dialogue: 0,0:07:08.00,0:07:10.00,Main,Ohmachi,0000,0000,0000,,It has plenty of mountains and water...
-Dialogue: 0,0:07:10.00,0:07:10.90,Main,Ohmachi,0000,0000,0000,,Hey, that's it.
-Dialogue: 0,0:07:11.35,0:07:15.53,Main,Ohmachi,0000,0000,0000,,Why don't you take the club to \NIzu for their winter camping?
-Dialogue: 0,0:07:16.48,0:07:21.00,Main,Ohmachi,0000,0000,0000,,They could camp there safely without \Nworrying too much about the cold.
-Dialogue: 0,0:07:21.51,0:07:23.54,Main,Sensei,0000,0000,0000,,Izu, huh?
-Dialogue: 0,0:07:24.08,0:07:28.05,Flashback_Italics,Person A,0000,0000,0000,,Please be sure to stop by \Nour shop if you're ever in Itou.
-Dialogue: 0,0:07:28.84,0:07:32.89,Main_Italics,Sensei,0000,0000,0000,,It might be nice to go.\N I do owe them, after all.
-Dialogue: 0,0:07:30.80,0:07:33.80,Main,Text,0000,0000,0000,,{\fnArial\fs12\bord1\shad0\c&H0E072C&\3c&HDEDEDE&\pos(414,148)}Izu Highland Cherry Blossom St.\N{\b1\fs28}Iida Liquors
-Dialogue: 0,0:07:34.89,0:07:36.22,Main,Nadeshiko,0000,0000,0000,,Thanks, Rin-chan!
-Dialogue: 0,0:07:36.22,0:07:38.68,Main,Nadeshiko,0000,0000,0000,,I have a pretty good idea how \Nto start solo camping now.
-Dialogue: 0,0:07:38.89,0:07:39.78,Main,Nadeshiko,0000,0000,0000,,All right!
-Dialogue: 0,0:07:39.78,0:07:43.69,Main,Nadeshiko,0000,0000,0000,,I'm going to get my research in before the\N weekend and make my solo camper debut!
-Dialogue: 0,0:07:46.04,0:07:48.15,Main,Nadeshiko,0000,0000,0000,,Well, I should head home.
-Dialogue: 0,0:07:48.15,0:07:49.46,Main,Rin,0000,0000,0000,,Oh, okay.
-Dialogue: 0,0:07:49.46,0:07:50.83,Main,Nadeshiko,0000,0000,0000,,See you tomorrow!
-Dialogue: 0,0:08:01.79,0:08:04.35,Main_Italics,Rin,0000,0000,0000,,Nadeshiko's going weekend solo camping, huh?
-Dialogue: 0,0:08:05.78,0:08:07.12,Main_Italics,Rin,0000,0000,0000,,Yeesh.
-Dialogue: 0,0:08:13.81,0:08:17.90,Main_Italics,Rin,0000,0000,0000,,I have the weekend off work too, actually.
-Dialogue: 0,0:08:22.03,0:08:24.48,Main,Onee-chan,0000,0000,0000,,You're going camping by yourself, you say?
-Dialogue: 0,0:08:24.79,0:08:30.01,Main,Nadeshiko,0000,0000,0000,,I-I know it's winter, but it's warmer \Nthan here, and it's not too far.
-Dialogue: 0,0:08:32.52,0:08:33.96,Main,Onee-chan,0000,0000,0000,,Be sure to stay safe.
-Dialogue: 0,0:08:33.96,0:08:35.51,Main,Nadeshiko,0000,0000,0000,,What? Really?
-Dialogue: 0,0:08:35.51,0:08:36.99,Main,Onee-chan,0000,0000,0000,,Give me your phone.
-Dialogue: 0,0:08:42.00,0:08:44.75,Main,Text,0000,0000,0000,,{\fnArial\fs14\frz19\shad0\3c&HF7F7F7&\c&H747474&\pos(334.857,213.571)}Installing
-Dialogue: 0,0:08:42.00,0:08:46.00,Main,Text,0000,0000,0000,,{\fnArial\fs14\frz19\shad0\c&HF7F7F7&\3c&H747474&\pos(350,254)}Details\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\c&H747474&\3c&HF7F7F7&}Reviews\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hRelated
-Dialogue: 0,0:08:42.97,0:08:44.33,Main,Nadeshiko,0000,0000,0000,,What are you doing?
-Dialogue: 0,0:08:44.75,0:08:46.00,Main,Text,0000,0000,0000,,{\fnArial\fs14\frz19\shad0\c&HF7F7F7&\3c&H747474&\pos(327.428,216.429)}Uninstall\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\3c&HD8966E&}Open
-Dialogue: 0,0:08:46.33,0:08:48.86,Main,Onee-chan,0000,0000,0000,,There's a good yakisoba place along the way.
-Dialogue: 0,0:08:48.86,0:08:49.88,Main,Onee-chan,0000,0000,0000,,Why don't you check it out?
-Dialogue: 0,0:08:50.15,0:08:52.63,Main,Nadeshiko,0000,0000,0000,,Really? I'll stop by!
-Dialogue: 0,0:08:55.63,0:08:58.63,Main,,0000,0000,0000,,{\pos(322,144)\fnArial\fs30\shad0\b1\bord0\c&H020403&}Let family know where I'm going
-Dialogue: 0,0:08:55.63,0:08:58.63,sign_12867_170_Tell_family_wher,,0000,0000,0000,,{\clip(115,125.143,529,131.429)}Let family know where I'm going
-Dialogue: 0,0:09:01.14,0:09:04.14,Main,Text,0000,0000,0000,,{\an7\fs18\fnArial\shad0\bord0\c&H0C0B0A&\move(230,98,230,192)}Let family know where I'm going\N\N\N\NChoose a campsite in cell range\N\N\N\NDo thorough research\N\N\N\NCheck the weather forecast\N\N\N\N\NDecide what to do once there
-Dialogue: 0,0:09:01.14,0:09:04.14,Main,Text,0000,0000,0000,,{\an8\fs18\fnArial\shad0\b1\bord2\c&H0C0B0A&\move(320,-26,320,71)\3c&HC8E0F5&}Things to do before camp trip
-Dialogue: 0,0:09:04.14,0:09:06.14,Texting,Text,0000,0000,0000,,{\fnArial\frz12\fax.1\pos(254.286,158.572)\c&H826A1E&\3c&HE3CC87&\4c&H454743&\bord4}Campsites
-Dialogue: 0,0:09:09.65,0:09:10.65,Main,Text,0000,0000,0000,,{\fad(140,1)\fnArial\fs20\frz-16\pos(206,230)\c&H555856&\shad0\3c&HEEEEEE&}Fujikawa Healthy Greenspace Campsite
-Dialogue: 0,0:09:12.65,0:09:15.15,Main,Text,0000,0000,0000,,{\an7\fnArial\fs16\shad0\bord3\c&H919192&\3c&HF1F1F1&\pos(93.143,277.429)}A free campsite with running water and washrooms. You can get signal \Nif you go high enough. Parking available nearby. I went in September \Nand enjoyed the peace and quiet, the night view, and the view of Mt. Fuji. Suruga Bay from the lookout was beautiful!
-Dialogue: 0,0:09:16.65,0:09:19.15,Main,,0000,0000,0000,,{\pos(322,144)\fnArial\fs30\shad0\b1\bord0\c&H020403&}Choose a campsite in cell range
-Dialogue: 0,0:09:16.65,0:09:19.15,sign_12867_170_Tell_family_wher,,0000,0000,0000,,{\clip(112,126,534,131)}Choose a campsite in cell range
-Dialogue: 0,0:09:21.37,0:09:24.16,Main,Text,0000,0000,0000,,{\fad(1190,1)\an7\fnArial\fs16\shad0\bord0\c&H5F5F5F&\pos(191,82)}Notes for campers
-Dialogue: 0,0:09:21.37,0:09:24.16,Main,Text,0000,0000,0000,,{\fad(1190,1)\an7\fnArial\fs14\pos(32,150)\shad0\bord0\c&H5F5F5F&}No fires on the premises. Please use the cooking area.\N\N\N\NPlease take home all your trash.\N\N\N\N\N\N\N\NThere are no administrators at the campsite. Please book a spot ahead of time.\N\N\N\N\N\N\NThe water at the cooking area is potable, but supply is limited, so please use it sparingly.
-Dialogue: 0,0:09:28.66,0:09:31.17,Main,,0000,0000,0000,,{\pos(322,144)\fnArial\fs30\shad0\b1\bord0\c&H020403&}Do thorough research
-Dialogue: 0,0:09:28.66,0:09:31.17,sign_12867_170_Tell_family_wher,,0000,0000,0000,,{\clip(112,126,534,131)\pos(322.185,144)}Do thorough research
-Dialogue: 0,0:09:43.43,0:09:45.93,Main,,0000,0000,0000,,{\pos(322,144)\fnArial\fs30\shad0\b1\bord0\c&H020403&}Check the weather forecast
-Dialogue: 0,0:09:43.43,0:09:45.93,sign_12867_170_Tell_family_wher,,0000,0000,0000,,{\clip(109.143,122.857,533.714,129.714)}Check the weather forecast
-Dialogue: 0,0:09:50.44,0:09:52.44,Main,Text,0000,0000,0000,,{\fnArial\fs14\shad0\bord4\an9\3c&HF1F1F1&\c&H63646A&\pos(623,20)}3-1 Establishment of the Tokugawa Shogunate\N\N1600 = Battle of Sekigahara\NWestern forces (82,000)\NMouri Terumoto, Ishida Mitsunari, Ukita Hideie, Mori HIdemoto \N\NEastern forces (75,000)\NTokugawa Ieyasu, Ikeda Terumasa, Asano Yoshinaga, Fukushima Masanori, Kuroda Nagamasa\N(Father: Kuroda Kanbei)
-Dialogue: 0,0:09:50.44,0:09:52.44,Main,Text,0000,0000,0000,,{\fnArial\fs14\shad0\an1\3c&HD0CFD4&\c&H351AB7&\pos(17,325)}*Things to do \NDraw? Walk? {\s1}Soap bubbles{\s0}
-Dialogue: 0,0:09:54.81,0:09:57.32,Main,,0000,0000,0000,,{\pos(322,144)\fnArial\fs30\shad0\b1\bord0\c&H020403&}Decide what to do once there
-Dialogue: 0,0:09:54.81,0:09:57.32,sign_12867_170_Tell_family_wher,,0000,0000,0000,,{\clip(109.143,122.857,533.714,129.714)}Decide what to do once there
-Dialogue: 0,0:10:05.08,0:10:06.23,Main,,0000,0000,0000,,{\fnArial\fs14\b1\fay-.1\pos(356.571,175.714)\c&H25455D&\3c&HF1F3F4&\4c&H2BAB6F&}Bite-Size\NTsukapon
-Dialogue: 0,0:10:08.83,0:10:10.83,Main,Text,0000,0000,0000,,{\an8\fs14\fnArial\shad0\b1\bord2\c&H0C0B0A&\3c&H483F3E&\pos(317.143,57.285)}Things to do before camp trip
-Dialogue: 0,0:10:08.83,0:10:10.83,Main,Text,0000,0000,0000,,{\an7\fs14\fnArial\shad0\bord0\c&H0C0B0A&\pos(246.571,154.857)}Tell family where I'm going\N\N\N\NChoose a campsite in cell range\N\N\N\NDo plenty of research\N\N\N\NCheck the weather forecast\N\N\N\N\NDecide what to do once there
-Dialogue: 0,0:10:25.62,0:10:26.88,Main,Nadeshiko,0000,0000,0000,,Hup...
-Dialogue: 0,0:10:32.01,0:10:33.02,Main,Mom,0000,0000,0000,,Have a good time.
-Dialogue: 0,0:10:34.82,0:10:36.07,Main,Nadeshiko,0000,0000,0000,,See you later!
-Dialogue: 0,0:11:06.12,0:11:07.94,Texting,Rin,0000,0000,0000,,I'm at Akasawa-shuku.
-Dialogue: 0,0:11:08.37,0:11:09.79,Main_Italics,Narrator,0000,0000,0000,,Akasawa-shuku.
-Dialogue: 0,0:11:10.24,0:11:14.20,Main_Italics,Narrator,0000,0000,0000,,A town that prospered as a post station \Nfor worshipers making their way
-Dialogue: 0,0:11:14.20,0:11:15.57,Main_Italics,Narrator,0000,0000,0000,,to Mt. Minobu and Mt. Shichimen.
-Dialogue: 0,0:11:19.94,0:11:21.21,Main_Italics,Rin,0000,0000,0000,,It's cold...
-Dialogue: 0,0:11:21.21,0:11:23.38,Main_Italics,Rin,0000,0000,0000,,I should go warm up at a home café.
-Dialogue: 0,0:11:23.57,0:11:25.83,Main,Text,0000,0000,0000,,{\an4\fnArial\fs18\3c&H3C433B&\4c&H575C5C&\c&H9C978E&}Akasawa-shuku Station\N{\b1\fs22}Izumiya\N\N{\b0\fs16}Café, gallery, resting spot\N←Left and down\NKotatsus available
-Dialogue: 0,0:11:23.57,0:11:25.83,Main,Text,0000,0000,0000,,{\fnArial\fs14\frz3\shad0\pos(466,276)\c&H3D3D38&\3c&HC9C6C0&}Parking ahead
-Dialogue: 0,0:11:26.68,0:11:29.07,Main,Rin,0000,0000,0000,,Hello. Are you open yet?
-Dialogue: 0,0:11:29.07,0:11:30.58,Main,Person A,0000,0000,0000,,Yes, come on in.
-Dialogue: 0,0:11:30.58,0:11:31.73,Main,Text,0000,0000,0000,,{\an8\fnArial\fs16\c&H434D44&\shad0\3c&HCBD2CA&\pos(212.286,180.286)}Lower stairs
-Dialogue: 0,0:11:30.58,0:11:32.23,Main,Text,0000,0000,0000,,{\an8\fnArial\fs16\shad0\3c&HA5AEA8&\pos(338,6)\c&H666283&}Lower stairs {\c&H5D635D&}available past the register.
-Dialogue: 0,0:11:32.98,0:11:34.11,Main,,0000,0000,0000,,{\an8\fnArial\fs16\c&H434D44&\shad0\3c&HCBD2CA&\pos(212.286,180.286)}Lower stairs
-Dialogue: 0,0:11:33.35,0:11:34.11,Main,,0000,0000,0000,,{\an8\fnArial\fs16\shad0\3c&HA5AEA8&\pos(338,6)\c&H666283&}Lower stairs {\c&H5D635D&}available past the register.
-Dialogue: 0,0:11:43.59,0:11:45.85,Main,Text,0000,0000,0000,,{\pos(468,143.714)\fnArial\fs18\c&HA79F97&\3c&H534D45&\4c&H312D26&}Warm Barley Tea\NPlease help yourself
-Dialogue: 0,0:11:51.43,0:11:53.31,Main_Italics,Rin,0000,0000,0000,,What a nice place.
-Dialogue: 0,0:11:57.68,0:12:01.47,Main_Italics,Rin,0000,0000,0000,,But... why does it feel so much like I'm at home?
-Dialogue: 0,0:12:01.89,0:12:03.44,Main_Italics,Rin,0000,0000,0000,,Is it the kotatsu?
-Dialogue: 0,0:12:04.14,0:12:05.37,Main,Person A,0000,0000,0000,,Thanks for waiting.
-Dialogue: 0,0:12:05.61,0:12:07.52,Main,Person A,0000,0000,0000,,Your mamemochi and amazake.
-Dialogue: 0,0:12:07.52,0:12:08.80,Main,Rin,0000,0000,0000,,Thank you.
-Dialogue: 0,0:12:09.76,0:12:11.02,Main,Rin,0000,0000,0000,,Let's eat.
-Dialogue: 0,0:12:15.84,0:12:18.51,Main_Italics,Rin,0000,0000,0000,,It's got all kinds of beans in it. Yum.
-Dialogue: 0,0:12:18.97,0:12:21.48,Main_Italics,Rin,0000,0000,0000,,And I taste something citrusy.
-Dialogue: 0,0:12:26.64,0:12:28.76,Texting,Nadeshiko,0000,0000,0000,,I made it to Fujinomiya, too!
-Dialogue: 0,0:12:28.76,0:12:31.14,Texting,Nadeshiko,0000,0000,0000,,Here's Mt. Fuji from Shizuoka!
-Dialogue: 0,0:12:33.14,0:12:35.86,Main_Italics,Rin,0000,0000,0000,,It goes down to 3 degrees in Fujinomiya, huh?
-Dialogue: 0,0:12:36.33,0:12:38.40,Main_Italics,Rin,0000,0000,0000,,Nadeshiko should be all right.
-Dialogue: 0,0:12:43.24,0:12:45.54,Main_Italics,Rin,0000,0000,0000,,The amazake is so good, too...
-Dialogue: 0,0:12:46.41,0:12:48.16,Texting,Text,0000,0000,0000,,{\an1\fnArial\fs12\frz-19\pos(268,50)\3c&HA29DA4&}I made it to Fujinomiya, too! Here's Mt. Fuji from Shizuoka!
-Dialogue: 0,0:12:55.42,0:12:57.42,Main,Text,0000,0000,0000,,{\fnTimes New Roman\fs20\fay.25\b1\pos(322,60)\c&HDCD8CC&\3c&H957D6E&\4c&H5E5346&}Fujisan Hongu
-Dialogue: 0,0:12:57.58,0:13:01.55,Main_Italics,Nadeshiko,0000,0000,0000,,Mt. Fuji, the blue sky, and the \Nbright red torii... This is great.
-Dialogue: 0,0:13:01.98,0:13:03.69,Main_Italics,Nadeshiko,0000,0000,0000,,Good thing the weather cleared up.
-Dialogue: 0,0:13:05.05,0:13:08.55,Main,Text,0000,0000,0000,,{\fnTimes New Roman\fs12\shad0\c&H2724A6&\3c&H84C5C4&\move(438,261,448,266)}Fujisan Hongu Sengen Taisha Shrine
-Dialogue: 0,0:13:05.05,0:13:08.55,Main,Text,0000,0000,0000,,{\fnTimes New Roman\fs12\shad0\c&H000C03&\3c&H6AA6A9&\an8\move(439,305,447,316)}Fujinomiya 70th anniversary
-Dialogue: 0,0:13:13.80,0:13:14.75,Main,Nadeshiko,0000,0000,0000,,Cold!
-Dialogue: 0,0:13:17.16,0:13:21.03,Main_Italics,Nadeshiko,0000,0000,0000,,I pray my first time solo camping will be fun.
-Dialogue: 0,0:13:21.80,0:13:23.38,Main,Nadeshiko,0000,0000,0000,,Done praying!
-Dialogue: 0,0:13:23.38,0:13:25.57,Main,Nadeshiko,0000,0000,0000,,Time to go for...
-Dialogue: 0,0:13:25.57,0:13:29.07,Main,Nadeshiko,0000,0000,0000,,Yakisoba! Yakisoba!
-Dialogue: 0,0:13:29.07,0:13:32.28,Main,Nadeshiko,0000,0000,0000,,Fujinomiya!
-Dialogue: 0,0:13:32.28,0:13:33.95,Main,Nadeshiko,0000,0000,0000,,Sniff, sniff, sniff...
-Dialogue: 0,0:13:35.21,0:13:37.96,Main,Text,0000,0000,0000,,{\an8\fnArial\fs15\b1\pos(312.571,33.429)\c&H5A4CC2&\3c&HD6E2EB&\4c&H4B79C9&}Fujinomiya {\c&H1E294C&}Yakisoba
-Dialogue: 0,0:13:35.44,0:13:37.96,Main_Italics,Nadeshiko,0000,0000,0000,,Yakisoba!
-Dialogue: 0,0:13:39.15,0:13:41.79,Main_Italics,Nadeshiko,0000,0000,0000,,There are shops in front of the shrine, too.
-Dialogue: 0,0:13:43.11,0:13:44.97,Main_Italics,Nadeshiko,0000,0000,0000,,I can smell the sauce...
-Dialogue: 0,0:13:45.27,0:13:48.15,Main_Italics,Nadeshiko,0000,0000,0000,,Wait! No, no! I gotta keep it together!
-Dialogue: 0,0:13:48.15,0:13:51.38,Main_Italics,Nadeshiko,0000,0000,0000,,I'm going to the place\NOnee-chan told me about.
-Dialogue: 0,0:13:59.73,0:14:05.74,Main,Nadeshiko,0000,0000,0000,,{\fad(1,1900)\fnTimes New Roman\fs14\frz3\pos(335,44)\c&H3B3D39&\shad0\3c&HCDD2CA&}Shichimensan Kaiso Akasawa\N{\b1\fs18}Myofukuji Temple
-Dialogue: 0,0:14:07.27,0:14:08.99,Main_Italics,Rin,0000,0000,0000,,I'm back down in the earthly realm.
-Dialogue: 0,0:14:11.24,0:14:13.10,Main,Rin,0000,0000,0000,,Thank you for your service.
-Dialogue: 0,0:14:13.10,0:14:14.74,Main,Popo,0000,0000,0000,,Stay safe out there.
-Dialogue: 0,0:14:13.10,0:14:14.74,Pinecone says,Popo,0000,0000,0000,,{\frz5\pos(526,76)\fad(160,1)}Stay safe out there
-Dialogue: 0,0:14:17.02,0:14:19.72,Texting,Saito,0000,0000,0000,,Morning, Rin. I saw your photos.
-Dialogue: 0,0:14:19.72,0:14:20.66,Texting,Rin,0000,0000,0000,,Hey.
-Dialogue: 0,0:14:20.66,0:14:22.87,Texting,Rin,0000,0000,0000,,You're finally awake, huh, sleepyhead?
-Dialogue: 0,0:14:22.87,0:14:26.88,Texting,Saito,0000,0000,0000,,Grrrgh... Is it you who has \Nawakened me from my slumber?
-Dialogue: 0,0:14:26.88,0:14:28.51,Texting,Rin,0000,0000,0000,,No evil demons allowed.
-Dialogue: 0,0:14:28.86,0:14:30.99,Texting,Saito,0000,0000,0000,,You're going to Hayakawa today, right?
-Dialogue: 0,0:14:30.99,0:14:32.02,Texting,Rin,0000,0000,0000,,Indeed.
-Dialogue: 0,0:14:32.02,0:14:35.52,Texting,Rin,0000,0000,0000,,I've been visiting Hamamatsu and Ina a lot, \Nso it feels like my own backyard.
-Dialogue: 0,0:14:36.18,0:14:39.66,Texting,Rin,0000,0000,0000,,I'm going to hit up the furthest \Npoint in Okuyamanashi first.
-Dialogue: 0,0:14:42.96,0:14:43.69,Texting,Saito,0000,0000,0000,,Oh!
-Dialogue: 0,0:14:43.69,0:14:46.38,Texting,Saito,0000,0000,0000,,I gotta get to work now.
-Dialogue: 0,0:14:46.38,0:14:48.69,Texting,Rin,0000,0000,0000,,Oh, you've started work, Saito?
-Dialogue: 0,0:14:48.69,0:14:50.48,Texting,Saito,0000,0000,0000,,Yeah, the day before yesterday.
-Dialogue: 0,0:14:50.48,0:14:53.15,Texting,Rin,0000,0000,0000,,You never told me... What job is it?
-Dialogue: 0,0:14:53.15,0:14:54.46,Texting,Saito,0000,0000,0000,,It's a secret!
-Dialogue: 0,0:14:54.46,0:14:55.35,Texting,Rin,0000,0000,0000,,Why, though?
-Dialogue: 0,0:14:55.35,0:14:56.13,Texting,Saito,0000,0000,0000,,Woof, woof.
-Dialogue: 0,0:14:56.13,0:14:57.79,Texting,Rin,0000,0000,0000,,I know you're not Chikuwa.
-Dialogue: 0,0:14:57.79,0:15:02.79,Main,Text,0000,0000,0000,,{\b1\fay-.2\fax-.1\fry-10\frz5\bord0\shad0\fnTimes New Roman\fs14\\pos(513.001,115.715)\c&H2B292D&}Giant Cedar of Yushima\N{\b0\fs12}Prefectural natural treasure
-Dialogue: 0,0:15:11.89,0:15:15.58,Main_Italics,Nadeshiko,0000,0000,0000,,You can see Mt. Fuji from \Nanywhere in town around here.
-Dialogue: 0,0:15:15.58,0:15:16.81,Main_Italics,Nadeshiko,0000,0000,0000,,It's so nice.
-Dialogue: 0,0:15:17.81,0:15:20.06,Main,Text,0000,0000,0000,,{\an8\fnArial\c&H4C6165&\fs14\b1\shad0\3c&H8D96DA&\pos(310.571,85.857)}Okonomiyaki\NYakisoba
-Dialogue: 0,0:15:17.81,0:15:20.06,Main,Text,0000,0000,0000,,{\an8\pos(310.286,159.714)\fnArial\c&H7DC3E6&\fs20\b1\shad0\3c&H7F78D7&}Sato
-Dialogue: 0,0:15:18.09,0:15:19.62,Main_Italics,Nadeshiko,0000,0000,0000,,There! There it is!
-Dialogue: 0,0:15:20.20,0:15:22.76,Main_Italics,Nadeshiko,0000,0000,0000,,My sister told me that\N in addition to yakisoba,
-Dialogue: 0,0:15:22.76,0:15:25.85,Main_Italics,Nadeshiko,0000,0000,0000,,Fujinomiya has another \Nspecialty called shigure-yaki.
-Dialogue: 0,0:15:25.85,0:15:28.09,Main_Italics,Nadeshiko,0000,0000,0000,,She said you can get it here!
-Dialogue: 0,0:15:28.09,0:15:28.94,Main,Nadeshiko,0000,0000,0000,,Wait...
-Dialogue: 0,0:15:28.94,0:15:31.20,Main,Nadeshiko,0000,0000,0000,,It's so crowded!
-Dialogue: 0,0:15:31.63,0:15:33.77,Main,Nadeshiko,0000,0000,0000,,Y-Yakisoba...
-Dialogue: 0,0:15:33.24,0:15:34.95,Pinecone says,Text,0000,0000,0000,,{\fad(1480,1)\fs30\frz20\pos(126,56)\3c&HF9F8E9&}Gurrrrgle
-Dialogue: 0,0:15:34.95,0:15:37.20,Main,Text,0000,0000,0000,,{\an8\fnArial\fs18\shad0\bord0\b1\pos(323,75)\c&HE5EAF3&}Narada no Sato\N\N\N\N\NSouthern Alps Ecological Reserve
-Dialogue: 0,0:15:37.20,0:15:43.21,Main,Text,0000,0000,0000,,{\fnTimes New Roman\fs14\b1\shad0\fay.1\pos(472,27)\c&H4F4F4F&\3c&HEEF0F0&}Lake Narada\NHot Springs
-Dialogue: 0,0:15:37.20,0:15:43.21,Main,Text,0000,0000,0000,,{\fnArial\b1\fs12\frz3\c&H6147C4&\shad0\pos(534.286,195.143)\u1\3c&H59D0DD&}Caution{\u0} \NSchool Bus Parking
-Dialogue: 0,0:15:40.33,0:15:42.30,Main_Italics,Rin,0000,0000,0000,,It's Nara in Yamanashi.
-Dialogue: 0,0:15:45.20,0:15:48.18,Main_Italics,Rin,0000,0000,0000,,Made it to Lake Narada Hot Springs.
-Dialogue: 0,0:15:49.86,0:15:52.92,Main_Italics,Rin,0000,0000,0000,,Isn't this the same car Sakura-san drives?
-Dialogue: 0,0:15:54.44,0:15:55.70,Main_Italics,Rin,0000,0000,0000,,No way, right?
-Dialogue: 0,0:15:58.22,0:16:01.73,Main,Text,0000,0000,0000,,{\fs12\fnArial\shad0\an8\c&H6B6A71&\3c&HB8BCC2&\pos(224,20}No parking ahead
-Dialogue: 0,0:16:01.92,0:16:03.84,Main_Italics,Rin,0000,0000,0000,,It {\i0}is{\i1} Sakura-san.
-Dialogue: 0,0:16:03.84,0:16:05.48,Main_Italics,Rin,0000,0000,0000,,Is she here by herself?
-Dialogue: 0,0:16:07.28,0:16:09.54,Main_Italics,Rin,0000,0000,0000,,Why am I being so sneaky?
-Dialogue: 0,0:16:09.98,0:16:12.74,Main,Person A,0000,0000,0000,,{\an8\pos(310.286,159.714)\fnArial\c&H7DC3E6&\fs20\b1\shad0\3c&H7F78D7&}Sato
-Dialogue: 0,0:16:09.98,0:16:12.74,Main,Person A,0000,0000,0000,,{\an8\fnArial\c&H4C6165&\fs14\b1\shad0\3c&H8D96DA&\pos(310.571,85.857)}Okonomiyaki\NYakisoba
-Dialogue: 0,0:16:11.00,0:16:12.74,Main,Person A,0000,0000,0000,,Next customer, please.
-Dialogue: 0,0:16:13.97,0:16:16.24,Main,Nadeshiko,0000,0000,0000,,I'm finally inside!
-Dialogue: 0,0:16:30.44,0:16:32.23,Main,Person B,0000,0000,0000,,What will you have?
-Dialogue: 0,0:16:32.23,0:16:34.23,Main,,0000,0000,0000,,Oh, um...
-Dialogue: 0,0:16:35.05,0:16:36.90,Main,Person C,0000,0000,0000,,Gomoku shigure, boss.
-Dialogue: 0,0:16:36.90,0:16:38.33,Main,Person D,0000,0000,0000,,Gomoku shigure here, too.
-Dialogue: 0,0:16:38.33,0:16:39.19,Main,Person B,0000,0000,0000,,Sure thing.
-Dialogue: 0,0:16:40.38,0:16:41.27,Main,Person B,0000,0000,0000,,And you?
-Dialogue: 0,0:16:41.48,0:16:44.20,Main,Nadeshiko,0000,0000,0000,,U-Um...
-Dialogue: 0,0:16:46.46,0:16:48.43,Main,Nadeshiko,0000,0000,0000,,Same! Gomoku shigure!
-Dialogue: 0,0:16:48.43,0:16:50.20,Main,Person B,0000,0000,0000,,All right, gomoku shigure it is.
-Dialogue: 0,0:17:32.57,0:17:35.44,Main,Person B,0000,0000,0000,,I-It's almost ready.
-Dialogue: 0,0:17:36.24,0:17:38.07,Pinecone says,Text,0000,0000,0000,,{\fad(1270,1)\pos(267,63)}Gurgle
-Dialogue: 0,0:17:38.07,0:17:40.58,Main_Italics,Rin,0000,0000,0000,,Stare...
-Dialogue: 0,0:17:44.32,0:17:46.51,Main_Italics,Rin,0000,0000,0000,,The home café's up ahead.
-Dialogue: 0,0:17:46.93,0:17:48.58,Main_Italics,Rin,0000,0000,0000,,Is that where Sakura-san's going, too?
-Dialogue: 0,0:17:50.50,0:17:53.16,Main_Italics,Rin,0000,0000,0000,,I'll bump into her if I go now.
-Dialogue: 0,0:17:55.34,0:17:57.59,Texting,Text,0000,0000,0000,,{\fad(650,1)\fnArial\fs14\frz-10\an1\pos(292.571,52.857)}I finally have lunch!!
-Dialogue: 0,0:17:58.35,0:17:59.84,Main_Italics,Rin,0000,0000,0000,,Nadeshiko...
-Dialogue: 0,0:17:59.84,0:18:01.32,Main_Italics,Rin,0000,0000,0000,,Don't scare me like that.
-Dialogue: 0,0:18:03.46,0:18:04.60,Main,Onee-chan,0000,0000,0000,,Rin-chan?
-Dialogue: 0,0:18:08.50,0:18:14.11,Main_Italics,Narrator,0000,0000,0000,,Shigure-yaki: a local gourmet dish combining \Nokonomiyaki and Fujinomiya yakisoba.
-Dialogue: 0,0:18:14.91,0:18:17.11,Main,Narrator,0000,0000,0000,,Time to eat!
-Dialogue: 0,0:18:18.50,0:18:23.27,Main_Italics,Narrator,0000,0000,0000,,It's lightly seasoned with sardine \Nflakes and Worcestershire sauce.
-Dialogue: 0,0:18:24.17,0:18:30.09,Main_Italics,Narrator,0000,0000,0000,,The meat bits and thick, chewy noodles \Nmake it a very filling meal.
-Dialogue: 0,0:18:32.09,0:18:34.09,Main,,0000,0000,0000,,Yum!
-Dialogue: 0,0:18:42.80,0:18:43.60,Main_Italics,Nadeshiko,0000,0000,0000,,Huh?
-Dialogue: 0,0:18:43.60,0:18:48.02,Main_Italics,Nadeshiko,0000,0000,0000,,Come to think of it, this might be the \Nfirst time I've ever eaten out by myself.
-Dialogue: 0,0:18:49.52,0:18:51.92,Main_Italics,Nadeshiko,0000,0000,0000,,I feel so grown-up ordering for one!
-Dialogue: 0,0:18:53.77,0:18:55.12,Main,Nadeshiko,0000,0000,0000,,I'd like some oden too, please!
-Dialogue: 0,0:18:55.12,0:18:56.03,Main,Person B,0000,0000,0000,,Comin' up.
-Dialogue: 0,0:18:57.16,0:18:59.70,Main,Onee-chan,0000,0000,0000,,I'll have a cocoa chiffon and coffee.
-Dialogue: 0,0:18:59.90,0:19:03.41,Main,Text,0000,0000,0000,,{\an8\pos(233,12)\b1\fnArial\fs20\c&HC4C6C3&\3c&H353737&\4c&H393E52&}Home\NCafé\NKasaya
-Dialogue: 0,0:19:00.02,0:19:03.41,Main,Rin,0000,0000,0000,,And I'll have the perilla cheesecake.
-Dialogue: 0,0:19:14.02,0:19:18.20,Main_Italics,Rin,0000,0000,0000,,It's... It's so awkward \Nwithout Nadeshiko here.
-Dialogue: 0,0:19:18.63,0:19:20.55,Main_Italics,Rin,0000,0000,0000,,What should I talk about?
-Dialogue: 0,0:19:21.04,0:19:23.39,Flashback,Nadeshiko,0000,0000,0000,,My sister loves that series.
-Dialogue: 0,0:19:23.39,0:19:25.10,Flashback,Nadeshiko,0000,0000,0000,,We have the DVDs at home.
-Dialogue: 0,0:19:26.15,0:19:31.41,Main,Rin,0000,0000,0000,,I heard from Nadeshiko that \Nyou like {\i1}Moped's Journey{\i0}, too.
-Dialogue: 0,0:19:32.32,0:19:33.10,Main,Onee-chan,0000,0000,0000,,"Too"?
-Dialogue: 0,0:19:33.57,0:19:35.76,Main,Onee-chan,0000,0000,0000,,You like it too, Rin-chan?
-Dialogue: 0,0:19:36.44,0:19:38.74,Main,Rin,0000,0000,0000,,W-We watched it on our camping trip.
-Dialogue: 0,0:19:38.74,0:19:40.62,Main,Onee-chan,0000,0000,0000,,Western Japan? Eastern Japan?
-Dialogue: 0,0:19:40.62,0:19:41.61,Main,Onee-chan,0000,0000,0000,,The overseas arc?
-Dialogue: 0,0:19:42.61,0:19:45.19,Main_Italics,Onee-chan,0000,0000,0000,,She really responded to that...
-Dialogue: 0,0:19:46.74,0:19:47.87,Main,Rin,0000,0000,0000,,Huh...
-Dialogue: 0,0:19:48.15,0:19:51.96,Main,Rin,0000,0000,0000,,Do you go out for drives often, too?
-Dialogue: 0,0:19:51.96,0:19:53.06,Main,Onee-chan,0000,0000,0000,,Occasionally.
-Dialogue: 0,0:19:53.06,0:19:55.25,Main,Onee-chan,0000,0000,0000,,Like to places that get \Nfeatured on travel shows.
-Dialogue: 0,0:19:55.71,0:19:57.24,Main,Onee-chan,0000,0000,0000,,Maybe once a month or so.
-Dialogue: 0,0:19:57.86,0:20:00.57,Main_Italics,Rin,0000,0000,0000,,Sakura-san's the solo type, too.
-Dialogue: 0,0:20:00.57,0:20:02.52,Main,Onee-chan,0000,0000,0000,,Are you camping again?
-Dialogue: 0,0:20:02.52,0:20:05.11,Main,Rin,0000,0000,0000,,Yes, by Lake Amehata.
-Dialogue: 0,0:20:05.11,0:20:07.38,Main,Rin,0000,0000,0000,,I haven't decided where to stay yet, though.
-Dialogue: 0,0:20:08.70,0:20:10.58,Main,Onee-chan,0000,0000,0000,,You sure are a seasoned traveler.
-Dialogue: 0,0:20:10.58,0:20:12.74,Main,Rin,0000,0000,0000,,N-Not at all.
-Dialogue: 0,0:20:14.68,0:20:18.71,Main,Onee-chan,0000,0000,0000,,Nadeshiko went camping by herself today, too.
-Dialogue: 0,0:20:19.40,0:20:24.10,Main,Onee-chan,0000,0000,0000,,She left with a huge backpack \Nearly this morning...
-Dialogue: 0,0:20:25.69,0:20:27.81,Main_Italics,Rin,0000,0000,0000,,She's definitely worried.
-Dialogue: 0,0:20:28.27,0:20:31.06,Main_Italics,Rin,0000,0000,0000,,I wonder if I should have \Nstopped her from going.
-Dialogue: 0,0:20:43.42,0:20:46.93,Texting,Nadeshiko,0000,0000,0000,,{\an1\fs14\fnArial\pos(194,24)}I'm gonna go shopping and then head to the campsite!
-Dialogue: 0,0:20:46.93,0:20:48.93,Main,Text,0000,0000,0000,,{\fay*.1\fs14\frz2\shad0\bord1\f\b1\fnArial\pos(207,107)\3c&H3E4854&}Southern Alps Ecological Reserve\NHome Café "Kasaya"
-Dialogue: 0,0:20:46.93,0:20:48.93,Main,Text,0000,0000,0000,,{\fay.1\fs14\frz-2\shad0\bord0\f\b1\fnArial\pos(436,112)}"Queen's Bath"\NLake Narada Hot Springs
-Dialogue: 0,0:20:48.93,0:20:48.93,Main,Text,0000,0000,0000,,Lake Narada Hot Springs
-Dialogue: 0,0:20:49.20,0:20:51.55,Main,Onee-chan,0000,0000,0000,,See you, Rin-chan. Take care.
-Dialogue: 0,0:20:51.55,0:20:53.31,Main,Rin,0000,0000,0000,,I will. You too, Sakura-san.
-Dialogue: 0,0:20:53.63,0:20:57.00,Main,Onee-chan,0000,0000,0000,,I'll have Nadeshiko bring \Nall the DVDs next time.
-Dialogue: 0,0:20:57.00,0:20:58.59,Main,Rin,0000,0000,0000,,Th-Thank you.
-Dialogue: 0,0:21:08.32,0:21:10.83,Main,Text,0000,0000,0000,,{\pos(305.714,213.429)\fnTimes New Roman\b1\fs18\shad0\c&HC7D3FB&\3c&H3F1EAC&}Queen's Bath
-Dialogue: 0,0:21:22.75,0:21:24.65,Main,Onee-chan,0000,0000,0000,,It's a little on the colder side...
-Dialogue: 0,0:21:30.74,0:21:34.47,Main,Nadeshiko,0000,0000,0000,,I made it to Fujikawa Station on schedule!
-Dialogue: 0,0:21:34.81,0:21:38.48,Main,Text,0000,0000,0000,,{\fad(440,1)\an1\fnArial\frz10\fs12\pos(200,89)\c&H4B4742&\shad0\3c&HF0F9F6&}Fujikawa Station
-Dialogue: 0,0:21:34.81,0:21:38.48,Main,Text,0000,0000,0000,,{\fad(440,1)\an7\fnArial\frz10\fs12\c&H4B4742&\shad0\3c&HF0F9F6&\pos(215,131)}Fujikawa Healthy Greenspace Campsite
-Dialogue: 0,0:21:34.81,0:21:38.48,Main,Text,0000,0000,0000,,{\fad(440,1)\an1\fnArial\frz12\fs12\c&H4B4742&\shad0\3c&HF0F9F6&\pos(246,337)}1 hour 32 minutes
-Dialogue: 0,0:21:35.76,0:21:38.48,Main,Nadeshiko,0000,0000,0000,,It's 5.5 kilometers to the campsite...
-Dialogue: 0,0:21:39.62,0:21:41.73,Main,Nadeshiko,0000,0000,0000,,And I'm all set for dinner!
-Dialogue: 0,0:21:42.40,0:21:44.74,Main,Nadeshiko,0000,0000,0000,,I'm all set on everything else, too.
-Dialogue: 0,0:21:45.48,0:21:48.80,Main,Nadeshiko,0000,0000,0000,,Okay, time to walk to the campsite!
+Dialogue: 0,0:00:01.85,0:00:10.49,Main,Nadeshiko,0000,0000,0000,,Hamamatsu, home of yummy eel...
+Dialogue: 0,0:00:10.99,0:00:19.27,Main,Nadeshiko,0000,0000,0000,,Fujinomiya, land of tasty shigure...
+Dialogue: 0,0:00:26.44,0:00:28.62,Main,Nadeshiko,0000,0000,0000,,I must have come pretty far up.
+Dialogue: 0,0:00:34.03,0:00:36.04,Main,Nadeshiko,0000,0000,0000,,What a nice view.
+Dialogue: 0,0:00:38.31,0:00:42.88,Main_Italics,Nadeshiko,0000,0000,0000,,I might spoil the view from the \Ncampsite if I enjoy it now!
+Dialogue: 0,0:00:43.82,0:00:46.00,Main,Nadeshiko,0000,0000,0000,,I see nothing.
+Dialogue: 0,0:00:49.99,0:00:52.98,Main,Nadeshiko,0000,0000,0000,,Do I go straight from here?
+Dialogue: 0,0:00:54.02,0:00:56.37,Main,Nadeshiko,0000,0000,0000,,This area's looking more forested.
+Dialogue: 0,0:00:57.16,0:00:59.90,Main,Nadeshiko,0000,0000,0000,,It must be scary walking here at night.
+Dialogue: 0,0:01:01.09,0:01:02.43,Main,Nadeshiko,0000,0000,0000,,Hello!
+Dialogue: 0,0:01:02.43,0:01:03.95,Main,Person A,0000,0000,0000,,Hello.
+Dialogue: 0,0:01:04.29,0:01:07.04,Main,Text,0000,0000,0000,,{\pos(359,200)\fs10\shad0\b1\c&HF0E799&\3c&HC5A42D&}Fujikawa Healthy\NGreenspace Campsite
+Dialogue: 0,0:01:19.38,0:01:22.32,Main_Italics,Nadeshiko,0000,0000,0000,,I made it to the campsite!
+Dialogue: 0,0:02:55.61,0:03:02.53,Ep Title,Text,0000,0000,0000,,{\fad(890,1)}(2) Episode 8 \N{\c&HFFFFFF&\fs20}Camping Alone
+Dialogue: 0,0:02:59.03,0:03:00.28,Main_Top,Nadeshiko,0000,0000,0000,,It's so open!
+Dialogue: 0,0:03:15.01,0:03:17.06,Main,Nadeshiko,0000,0000,0000,,I can still see Mt. Fuji, too!
+Dialogue: 0,0:03:17.95,0:03:20.19,Main,Nadeshiko,0000,0000,0000,,The washroom's so clean.
+Dialogue: 0,0:03:21.02,0:03:22.71,Main,Nadeshiko,0000,0000,0000,,This is the cooking pavilion.
+Dialogue: 0,0:03:23.36,0:03:26.64,Main,Nadeshiko,0000,0000,0000,,I'm not allowed to make a \Nfire outside of here, right?
+Dialogue: 0,0:03:27.11,0:03:31.39,Main,Nadeshiko,0000,0000,0000,,I can't have a campfire, but it's not \Ntoo cold, so I guess it's all right.
+Dialogue: 0,0:03:33.88,0:03:36.24,Main,Nadeshiko,0000,0000,0000,,I could camp in the rain!
+Dialogue: 0,0:03:37.96,0:03:40.35,Main,Person A,0000,0000,0000,,I can't connect to the internet...
+Dialogue: 0,0:03:40.83,0:03:42.11,Main,Nadeshiko,0000,0000,0000,,Hello!
+Dialogue: 0,0:03:42.62,0:03:44.06,Main,Person B,0000,0000,0000,,Hello.
+Dialogue: 0,0:03:44.06,0:03:45.32,Main,Person A,0000,0000,0000,,Hello!
+Dialogue: 0,0:03:52.72,0:03:55.87,Main,Nadeshiko,0000,0000,0000,,It's a relief to know there \Nare other campers around.
+Dialogue: 0,0:04:22.41,0:04:25.78,Main_Italics,Nadeshiko,0000,0000,0000,,This view must be really nice at night.
+Dialogue: 0,0:04:28.42,0:04:30.68,Main_Italics,Nadeshiko,0000,0000,0000,,You can see all the way to Izu.
+Dialogue: 0,0:04:36.24,0:04:37.48,Main,Nadeshiko,0000,0000,0000,,Well...
+Dialogue: 0,0:04:38.03,0:04:41.21,Main,Nadeshiko,0000,0000,0000,,Time to start solo camping!
+Dialogue: 0,0:04:44.13,0:04:47.33,Main,Nadeshiko,0000,0000,0000,,Home of yummy eel...
+Dialogue: 0,0:04:55.39,0:04:58.40,Main,Nadeshiko,0000,0000,0000,,Ow, ow, ow, ow, ow!
+Dialogue: 0,0:05:11.41,0:05:13.55,Main,Nadeshiko,0000,0000,0000,,Oh, I think I can fix it.
+Dialogue: 0,0:05:15.90,0:05:18.14,Main,Nadeshiko,0000,0000,0000,,Tent's all set!
+Dialogue: 0,0:05:19.97,0:05:22.83,Main,Nadeshiko,0000,0000,0000,,It's a lot of work doing it alone.
+Dialogue: 0,0:05:23.42,0:05:24.75,Main,Nadeshiko,0000,0000,0000,,Now...
+Dialogue: 0,0:05:24.75,0:05:28.70,Main,Nadeshiko,0000,0000,0000,,Rin-chan said solo camping is boring \Nif you don't have anything to do.
+Dialogue: 0,0:05:29.40,0:05:31.00,Main,Nadeshiko,0000,0000,0000,,For me, it's gotta be...
+Dialogue: 0,0:05:31.00,0:05:31.93,Main,Nadeshiko,0000,0000,0000,,this!
+Dialogue: 0,0:05:31.93,0:05:35.18,Main,Text,0000,0000,0000,,{\fs10\frz50\fnArial\pos(121,198)\bord1.5\shad0\c&H505050&\3c&HF5F5F4&}Shimeji
+Dialogue: 0,0:05:31.93,0:05:35.18,Main,Text,0000,0000,0000,,{\fs10\frz-23\fnArial\bord1.5\shad0\c&H505050&\3c&HD1D2D0&\pos(359,318)}Salmon Fillets
+Dialogue: 0,0:05:31.93,0:05:35.18,Main,Text,0000,0000,0000,,{\frz-75\b1\fs12\pos(412,241)\c&HCBDEF4&\3c&H628AB2&\bord1\fnArial\4c&HB1C66C&}Tokaido Butter
+Dialogue: 0,0:05:32.27,0:05:34.04,Main,Nadeshiko,0000,0000,0000,,Outdoor cooking research!
+Dialogue: 0,0:05:35.18,0:05:39.94,Main,Text,0000,0000,0000,,{\fs12\fnArial\frz-77\pos(203,121)\c&H773C12&\3c&HD3C0AF&\shad0}Aluminum Foil
+Dialogue: 0,0:05:35.37,0:05:39.94,Main_Italics,Nadeshiko,0000,0000,0000,,If it's good, I can share it with the \Nothers when we go camping together.
+Dialogue: 0,0:05:40.25,0:05:43.99,Main_Italics,Nadeshiko,0000,0000,0000,,As long as I'm cooking for myself,\N it's no bother to anyone if I mess up.
+Dialogue: 0,0:05:47.55,0:05:49.57,Main,Takuto,0000,0000,0000,,What are you doing, Onee-chan?
+Dialogue: 0,0:05:49.96,0:05:53.00,Main,Haruka,0000,0000,0000,,That girl's camping on her own.
+Dialogue: 0,0:05:53.00,0:05:54.59,Main,Haruka,0000,0000,0000,,Maybe she's a loner.
+Dialogue: 0,0:05:54.59,0:05:55.58,Main,Takuto,0000,0000,0000,,A loner?
+Dialogue: 0,0:05:56.72,0:05:57.50,Main_Italics,Rin,0000,0000,0000,,No...
+Dialogue: 0,0:05:57.83,0:06:00.83,Main,Rin,0000,0000,0000,,{\frz-6\fsArial\fs10\shad0\c&H7F6258&\3c&HDCC5C1&\pos(280,75)}Max Height {\c&H7844AE&}3.4 {\c&H7F6258&}m\h\h\hMax Width {\c&H7844AE&}3.5 {\c&H7F6258&}m
+Dialogue: 0,0:05:57.83,0:06:00.83,Main,Text,0000,0000,0000,,{\fnArial\fs10\shad0\frz1\c&H7844AE&\3c&HEBE7E6&\pos(292,227)}Closed for winter
+Dialogue: 0,0:05:58.49,0:05:59.95,Main_Italics,Rin,0000,0000,0000,,Not again...
+Dialogue: 0,0:06:03.09,0:06:04.41,Main_Italics,Rin,0000,0000,0000,,Just kidding.
+Dialogue: 0,0:06:04.41,0:06:06.34,Main_Italics,Rin,0000,0000,0000,,I read about this yesterday.
+Dialogue: 0,0:06:07.58,0:06:12.36,Main_Italics,Rin,0000,0000,0000,,This tunnel leads to Yashajin Pass, doesn't it?
+Dialogue: 0,0:06:14.84,0:06:16.68,Main_Italics,Rin,0000,0000,0000,,So creepy.
+Dialogue: 0,0:06:18.10,0:06:21.92,Main_Italics,Rin,0000,0000,0000,,I would've been really \Nlet down if I hadn't known,
+Dialogue: 0,0:06:22.44,0:06:25.25,Main_Italics,Rin,0000,0000,0000,,but there's something awe-inspiring \Nabout seeing it like this.
+Dialogue: 0,0:06:25.82,0:06:28.15,Main_Italics,Rin,0000,0000,0000,,I guess it's that wabi-sabi aesthetic.
+Dialogue: 0,0:07:07.03,0:07:10.03,Main,Text,0000,0000,0000,,{\fs10\shad0\fnArial\c&H695A59&\bord0\pos(220,234)}Hayakawa
+Dialogue: 0,0:07:14.86,0:07:18.49,Main_Italics,Rin,0000,0000,0000,,I still love quiet lakes.
+Dialogue: 0,0:07:22.01,0:07:24.17,Main_Italics,Rin,0000,0000,0000,,I think the campsite is around there,
+Dialogue: 0,0:07:24.31,0:07:28.24,Main_Italics,Rin,0000,0000,0000,,and that road leads to Shizuoka.
+Dialogue: 0,0:07:28.67,0:07:34.30,Generic caption (B&W),Text,0000,0000,0000,,{\pos(453,285)\fad(1,1230)}Rindou Ikawa Amehata Line
+Dialogue: 0,0:07:28.95,0:07:31.55,Main_Italics,Narrator,0000,0000,0000,,{\an8}The Rindou Ikawa Amehata Line\N is the only route
+Dialogue: 0,0:07:32.01,0:07:38.41,Main_Italics,Narrator,0000,0000,0000,,{\an8}that takes you from Yamanashi \Nto Lake Ikawa in Shizuoka.
+Dialogue: 0,0:07:41.77,0:07:44.90,Main_Italics,Rin,0000,0000,0000,,The road's under repair \Nright now after falling apart.
+Dialogue: 0,0:07:44.19,0:07:46.44,Main,Text,0000,0000,0000,,{\fs10\shad0\fnArial\c&H232835&\3c&H747D85&\pos(321,282)}Caution
+Dialogue: 0,0:07:45.40,0:07:47.40,Main_Italics,Rin,0000,0000,0000,,I want to try taking it once it's open again.
+Dialogue: 0,0:07:52.24,0:07:53.63,Main_Italics,Rin,0000,0000,0000,,A suspension bridge...
+Dialogue: 0,0:07:57.89,0:08:00.26,Main_Italics,Rin,0000,0000,0000,,It's sturdier than I thought.
+Dialogue: 0,0:08:04.83,0:08:07.03,Main,Rin,0000,0000,0000,,The middle part rocks!
+Dialogue: 0,0:08:08.37,0:08:12.12,Main_Italics,Rin,0000,0000,0000,,Wait, the trail past the \Nbridge looks even worse...
+Dialogue: 0,0:08:14.73,0:08:16.71,Main_Italics,Rin,0000,0000,0000,,I should go back and hit the hot spring.
+Dialogue: 0,0:08:22.26,0:08:23.41,Main_Italics,Onee-chan,0000,0000,0000,,Deer.
+Dialogue: 0,0:08:23.41,0:08:24.23,Main_Italics,Onee-chan,0000,0000,0000,,Bear.
+Dialogue: 0,0:08:24.52,0:08:25.80,Main_Italics,Onee-chan,0000,0000,0000,,Boar.
+Dialogue: 0,0:08:26.36,0:08:29.77,Main_Italics,Onee-chan,0000,0000,0000,,I've heard deer isn't too gamey...
+Dialogue: 0,0:08:32.08,0:08:37.94,Main_Italics,Onee-chan,0000,0000,0000,,Actually, isn't the braised bear paw in \Nhigh-end Chinese restaurants game, too?
+Dialogue: 0,0:08:38.24,0:08:42.25,Generic caption (B&W),Text,0000,0000,0000,,{\pos(190,283)\fs16\3c&H404040&\c&HFCFCFC&}Search
+Dialogue: 0,0:08:38.99,0:08:42.25,Generic caption (B&W),Text,0000,0000,0000,,{\an1\fs16\c&H333333&\pos(254,273)}braised bear paw recipe
+Dialogue: 0,0:08:39.12,0:08:41.92,Main_Italics,,0000,0000,0000,,Is it even something you can prepare at home?
+Dialogue: 0,0:08:42.25,0:08:55.26,Generic caption (B&W),Text,0000,0000,0000,,{\pos(576.571,328.143)}Braised\NBear\NPaw
+Dialogue: 0,0:08:42.67,0:08:44.37,Main_Italics,Narrator,0000,0000,0000,,Braised bear paw.
+Dialogue: 0,0:08:45.08,0:08:48.96,Main_Italics,Narrator,0000,0000,0000,,First, stew the bear paw with ginger \Nand green onion for four or five hours
+Dialogue: 0,0:08:48.96,0:08:50.43,Main_Italics,Narrator,0000,0000,0000,,to get rid of the smell.
+Dialogue: 0,0:08:51.42,0:08:55.26,Main_Italics,Narrator,0000,0000,0000,,After that, use tweezers to remove all hairs.
+Dialogue: 0,0:08:56.07,0:08:59.60,Main_Italics,Narrator,0000,0000,0000,,Once that's done, stew it for \Nanother four hours or so until tender.
+Dialogue: 0,0:08:59.60,0:09:01.49,Main_Italics,Narrator,0000,0000,0000,,Remove the outer skin, bone, and claws.
+Dialogue: 0,0:09:01.49,0:09:04.27,Main_Italics,Narrator,0000,0000,0000,,That completes the preparations. \NWe're now ready to start cooking.
+Dialogue: 0,0:09:04.47,0:09:05.72,Main,Onee-chan,0000,0000,0000,,Hello.
+Dialogue: 0,0:09:05.72,0:09:07.27,Main,Onee-chan,0000,0000,0000,,I'd like some of this deer meat.
+Dialogue: 0,0:09:09.74,0:09:10.80,Main,Deer,0000,0000,0000,,Welcome!
+Dialogue: 0,0:09:09.79,0:09:11.02,Pinecone says,Deer,0000,0000,0000,,{\fad(130,1)\fs10\pos(252,56)\3c&HF4F0F2&}Welcome
+Dialogue: 0,0:09:12.22,0:09:16.58,Main_Italics,Rin,0000,0000,0000,,Hot springs are the best when \Nthey're on the particularly hot side.
+Dialogue: 0,0:09:19.85,0:09:21.61,Main_Italics,Rin,0000,0000,0000,,There's a cafeteria here.
+Dialogue: 0,0:09:21.61,0:09:24.20,Main_Italics,Rin,0000,0000,0000,,Maybe I'll go to the campsite \Nafter I'm done eating.
+Dialogue: 0,0:09:25.35,0:09:27.98,Main_Italics,Rin,0000,0000,0000,,I should send a photo of Lake Amehata.
+Dialogue: 0,0:09:29.07,0:09:33.47,Main_Italics,Rin,0000,0000,0000,,Come to think of it, \NNadeshiko's stopped sending me photos.
+Dialogue: 0,0:09:34.22,0:09:36.77,Main_Italics,Rin,0000,0000,0000,,She hasn't read my messages, either.
+Dialogue: 0,0:09:37.58,0:09:38.78,Main_Italics,Rin,0000,0000,0000,,I wonder why...
+Dialogue: 0,0:09:39.68,0:09:42.68,Main,Text,0000,0000,0000,,{\fnArial\fs32\b1\frz5\an2\shad0\bord0\pos(301,64)}Nadeshiko
+Dialogue: 0,0:09:39.68,0:09:42.68,Main,Text,0000,0000,0000,,{\fnArial\fs20\b1\frz5\an8\shad0\bord0\pos(324,169)}Calling
+Dialogue: 0,0:09:40.72,0:09:44.23,Main_Italics,Person A,0000,0000,0000,,The customer you have dialed \Nhas switched off their phone
+Dialogue: 0,0:09:44.23,0:09:47.19,Main_Italics,Person A,0000,0000,0000,,or is out of the service area.
+Dialogue: 0,0:09:47.55,0:09:49.64,Main_Italics,Rin,0000,0000,0000,,It's up in the mountains over there.
+Dialogue: 0,0:09:49.64,0:09:51.42,Main_Italics,Rin,0000,0000,0000,,She must be out of range.
+Dialogue: 0,0:09:52.33,0:09:53.24,Main_Italics,Rin,0000,0000,0000,,Probably.
+Dialogue: 0,0:10:04.06,0:10:06.83,Main_Italics,Rin,0000,0000,0000,,Nadeshiko is just out of range.
+Dialogue: 0,0:10:08.34,0:10:11.24,Main_Italics,Rin,0000,0000,0000,,Nadeshiko is just out of range.
+Dialogue: 0,0:10:12.78,0:10:15.92,Main_Italics,Rin,0000,0000,0000,,Nadeshiko is just out of range...
+Dialogue: 0,0:10:17.33,0:10:18.72,Main_Italics,Rin,0000,0000,0000,,Is she really?
+Dialogue: 0,0:10:32.20,0:10:33.14,Main_Italics,Rin,0000,0000,0000,,Darn it!
+Dialogue: 0,0:10:33.48,0:10:34.82,Main_Italics,Rin,0000,0000,0000,,It's going to bug me.
+Dialogue: 0,0:10:35.68,0:10:39.24,Main_Italics,Rin,0000,0000,0000,,I'm the reason she decided \Nto go camping on her own.
+Dialogue: 0,0:10:41.16,0:10:43.68,Main_Italics,Rin,0000,0000,0000,,I'm sure I'm just being a worrywart, but...
+Dialogue: 0,0:10:49.00,0:10:51.00,Texting,Text,0000,0000,0000,,{\an1\fs14\fnArial\pos(194,24)}I'm gonna go shopping and then head to the campsite!
+Dialogue: 0,0:10:56.00,0:10:59.01,Main,Text,0000,0000,0000,,{\fad(610,1)\fnArial\fs16\c&H555856&\shad0\3c&HEEEEEE&\pos(269,226)}Fujikawa Healthy Greenspace Campsite
+Dialogue: 0,0:11:12.97,0:11:15.04,Main,Dad,0000,0000,0000,,Should we have dinner?
+Dialogue: 0,0:11:15.04,0:11:16.02,Main,Takuto,0000,0000,0000,,Okay.
+Dialogue: 0,0:11:16.66,0:11:21.80,Main,Dad,0000,0000,0000,,Are you sure you two are happy with \Nconvenience store meals for a camping trip?
+Dialogue: 0,0:11:21.80,0:11:22.43,Main,Takuto,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:22.43,0:11:24.78,Main,Haruka,0000,0000,0000,,We all like different things, anyway.
+Dialogue: 0,0:11:24.93,0:11:26.92,Main,Haruka,0000,0000,0000,,It's a lot of work for you to cook, isn't it?
+Dialogue: 0,0:11:27.38,0:11:30.29,Main,Dad,0000,0000,0000,,I wouldn't have minded cooking for once.
+Dialogue: 0,0:11:30.49,0:11:34.46,Main,Haruka,0000,0000,0000,,This is better than the food he does cook.
+Dialogue: 0,0:11:34.46,0:11:35.57,Main,Takuto,0000,0000,0000,,I know.
+Dialogue: 0,0:11:36.11,0:11:37.80,Main,Dad,0000,0000,0000,,I heard that.
+Dialogue: 0,0:11:37.80,0:11:40.43,Main,Haruka,0000,0000,0000,,Okay, we'll go warm up yours, too.
+Dialogue: 0,0:11:40.43,0:11:41.20,Main,Dad,0000,0000,0000,,Okay.
+Dialogue: 0,0:11:41.20,0:11:42.43,Main,Dad,0000,0000,0000,,Be careful.
+Dialogue: 0,0:12:00.98,0:12:03.93,Main,Takuto,0000,0000,0000,,Onee-chan, what is that girl doing?
+Dialogue: 0,0:12:04.44,0:12:06.30,Main,Haruka,0000,0000,0000,,An unholy ritual?
+Dialogue: 0,0:12:06.86,0:12:11.22,Main_Italics,Nadeshiko,0000,0000,0000,,Tonight's dinner is whole \Nveggies roasted in foil.
+Dialogue: 0,0:12:11.58,0:12:31.60,Generic caption (B&W),Text,0000,0000,0000,,{\pos(544,47)}Outdoor Cooking\NExperiments
+Dialogue: 0,0:12:11.58,0:12:31.60,Generic caption (B&W),Text,0000,0000,0000,,{\pos(103.428,56.143)}Whole veggies\Nroasted in foil
+Dialogue: 0,0:12:12.05,0:12:14.68,Main_Italics,Narrator,0000,0000,0000,,First, give the veggies a quick rinse.
+Dialogue: 0,0:12:14.68,0:12:18.25,Main_Italics,Narrator,0000,0000,0000,,Root veggies should be wrapped in \Nwet newspaper and aluminum foil.
+Dialogue: 0,0:12:18.25,0:12:23.23,Main_Italics,Narrator,0000,0000,0000,,Other veggies should be wrapped \Nin foil and tossed into the fire.
+Dialogue: 0,0:12:21.28,0:12:21.94,Main_Italics,,0000,0000,0000,,{\an8}Hot!
+Dialogue: 0,0:12:21.28,0:12:21.94,Pinecone says,,0000,0000,0000,,{\an8\pos(317,115)\fad(120,120}Hot
+Dialogue: 0,0:12:23.23,0:12:24.99,Main_Italics,Narrator,0000,0000,0000,,Then you wait.
+Dialogue: 0,0:12:25.56,0:12:31.44,Main_Italics,Narrator,0000,0000,0000,,Use smaller, thinner root vegetables \Nto ensure that they cook evenly.
+Dialogue: 0,0:12:31.98,0:12:35.10,Generic caption (B&W),Text,0000,0000,0000,,{\fs12\pos(158.857,111.571)}Sweet Potato: 30 mins
+Dialogue: 0,0:12:32.12,0:12:35.10,Main_Italics,Narrator,0000,0000,0000,,Different veggies require \Ndifferent cooking times.
+Dialogue: 0,0:12:32.35,0:12:35.10,Generic caption (B&W),Text,0000,0000,0000,,{\fs12\pos(484,191.571)}Carrot: 30 mins
+Dialogue: 0,0:12:32.73,0:12:35.10,Generic caption (B&W),Text,0000,0000,0000,,{\fs12\pos(450.857,55)}Tomato: 10 mins
+Dialogue: 0,0:12:33.10,0:12:35.10,Generic caption (B&W),Text,0000,0000,0000,,{\fs12\pos(261.714,261.286)}Eggplant: 10 mins
+Dialogue: 0,0:12:33.48,0:12:35.10,Generic caption (B&W),Text,0000,0000,0000,,{\fs12\pos(187.428,25.285)}Potato: 30 mins
+Dialogue: 0,0:12:33.85,0:12:35.10,Generic caption (B&W),Text,0000,0000,0000,,{\fs12\pos(157.714,260.714)}Gummies: 5 secs
+Dialogue: 0,0:12:34.23,0:12:35.10,Generic caption (B&W),Text,0000,0000,0000,,{\fs12\pos(343.429,21.286)}Avocado: 10 mins
+Dialogue: 0,0:12:34.60,0:12:35.10,Generic caption (B&W),Text,0000,0000,0000,,{\fs12\pos(344,240.714)}Garlic: 5 mins
+Dialogue: 0,0:12:36.69,0:12:38.11,Main,Text,0000,0000,0000,,{\frz-10\fnArial\b1\shad0\pos(504.571,55.143)\c&H3CCDF4&\3c&HE4FBFF&}Beep Beep Beep
+Dialogue: 0,0:12:36.70,0:12:37.86,Main_Italics,Nadeshiko,0000,0000,0000,,Shazam!
+Dialogue: 0,0:12:38.32,0:12:43.86,Main_Italics,Narrator,0000,0000,0000,,Retrieve the items before they burn,\Nthen season them lightly...
+Dialogue: 0,0:12:41.40,0:12:42.61,Pinecone says,Text,0000,0000,0000,,{\fad(190,1)\pos(576,203)}Herb salt
+Dialogue: 0,0:12:42.65,0:12:43.86,Pinecone says,Text,0000,0000,0000,,{\fad(190,1)\pos(93,113)}Olive oil
+Dialogue: 0,0:12:43.90,0:12:46.62,Generic caption (B&W),Text,0000,0000,0000,,{\fad(119,1)}Roasted Tomato
+Dialogue: 0,0:12:44.43,0:12:46.08,Main_Italics,Narrator,0000,0000,0000,,{\an8}And you're done.
+Dialogue: 0,0:12:49.00,0:12:50.41,Main,Takuto,0000,0000,0000,,She's cooking in foil!
+Dialogue: 0,0:12:51.62,0:12:53.41,Main_Top,,0000,0000,0000,,Yum!
+Dialogue: 0,0:12:52.00,0:12:55.34,Main,Haruka,0000,0000,0000,,There's nowhere else we can use a stove...
+Dialogue: 0,0:12:56.10,0:12:57.86,Main,Haruka,0000,0000,0000,,I feel awkward about going in.
+Dialogue: 0,0:13:06.22,0:13:07.40,Main,Haruka,0000,0000,0000,,What should we do?
+Dialogue: 0,0:13:08.32,0:13:09.22,Main,Haruka,0000,0000,0000,,Huh?!
+Dialogue: 0,0:13:10.89,0:13:13.78,Main,Takuto,0000,0000,0000,,Onee-chan, roasted tomato is super good!
+Dialogue: 0,0:13:14.40,0:13:15.70,Main,Haruka,0000,0000,0000,,When did you get over there?!
+Dialogue: 0,0:13:17.36,0:13:18.37,Main,Takuto,0000,0000,0000,,What's this?
+Dialogue: 0,0:13:18.37,0:13:19.65,Main,Narrator,0000,0000,0000,,Potato.
+Dialogue: 0,0:13:19.79,0:13:20.92,Main,Takuto,0000,0000,0000,,And this one?
+Dialogue: 0,0:13:20.92,0:13:21.96,Main,Narrator,0000,0000,0000,,Um...
+Dialogue: 0,0:13:21.96,0:13:23.40,Main,Narrator,0000,0000,0000,,I think that was a carrot.
+Dialogue: 0,0:13:23.40,0:13:25.78,Main,Haruka,0000,0000,0000,,Hey, have some restraint.
+Dialogue: 0,0:13:25.78,0:13:27.35,Main,Takuto,0000,0000,0000,,Why, though?
+Dialogue: 0,0:13:27.35,0:13:28.66,Main,Nadeshiko,0000,0000,0000,,It's all right.
+Dialogue: 0,0:13:29.09,0:13:31.05,Main,Nadeshiko,0000,0000,0000,,Would you like some, miss?
+Dialogue: 0,0:13:31.05,0:13:32.95,Main,Nadeshiko,0000,0000,0000,,I have baked apples, too.
+Dialogue: 0,0:13:34.24,0:13:36.16,Main_Italics,Takuto,0000,0000,0000,,She's a witch.
+Dialogue: 0,0:13:37.80,0:13:40.10,Main,Narrator,0000,0000,0000,,So you're camping with your dad, huh?
+Dialogue: 0,0:13:40.10,0:13:40.86,Main,Takuto,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:40.86,0:13:43.62,Main,Takuto,0000,0000,0000,,Mom's out traveling with her friends.
+Dialogue: 0,0:13:43.62,0:13:45.84,Main,Takuto,0000,0000,0000,,She said it's a housewives' retreat.
+Dialogue: 0,0:13:46.31,0:13:47.68,Main,Nadeshiko,0000,0000,0000,,Are you having fun camping?
+Dialogue: 0,0:13:48.73,0:13:50.28,Main,Takuto,0000,0000,0000,,I dunno.
+Dialogue: 0,0:13:50.28,0:13:53.18,Main,Takuto,0000,0000,0000,,All we've done is eat snacks and watch anime.
+Dialogue: 0,0:13:53.61,0:13:54.91,Main,Nadeshiko,0000,0000,0000,,I see.
+Dialogue: 0,0:13:57.54,0:13:59.19,Main,Nadeshiko,0000,0000,0000,,The next one's done!
+Dialogue: 0,0:13:59.90,0:14:00.90,Main,Takuto,0000,0000,0000,,What's that?
+Dialogue: 0,0:14:00.90,0:14:02.68,Main,Nadeshiko,0000,0000,0000,,Whole roasted eggplant.
+Dialogue: 0,0:14:02.68,0:14:04.19,Main,Nadeshiko,0000,0000,0000,,Help yourselves.
+Dialogue: 0,0:14:05.98,0:14:07.10,Main,Takuto,0000,0000,0000,,Yum!
+Dialogue: 0,0:14:07.10,0:14:09.19,Main,Nadeshiko,0000,0000,0000,,You should have some, too.
+Dialogue: 0,0:14:09.94,0:14:11.21,Main,Haruka,0000,0000,0000,,Okay...
+Dialogue: 0,0:14:15.18,0:14:17.97,Main,Haruka,0000,0000,0000,,I never knew eggplant got so runny.
+Dialogue: 0,0:14:20.45,0:14:22.48,Main,Nadeshiko,0000,0000,0000,,Next up, potato!
+Dialogue: 0,0:14:22.48,0:14:25.15,Main,Takuto,0000,0000,0000,,The skin's so crunchy. \NIt's like a potato chip!
+Dialogue: 0,0:14:25.15,0:14:27.97,Main,Haruka,0000,0000,0000,,I like the skin more than the inside.
+Dialogue: 0,0:14:28.52,0:14:31.47,Main,Nadeshiko,0000,0000,0000,,Next, whole roasted avocado!
+Dialogue: 0,0:14:34.50,0:14:37.29,Main,Nadeshiko,0000,0000,0000,,This one might be better raw...
+Dialogue: 0,0:14:38.60,0:14:41.49,Main,Nadeshiko,0000,0000,0000,,Wait, weren't you making \Nsomething over there?
+Dialogue: 0,0:14:45.76,0:14:48.02,Main,Haruka,0000,0000,0000,,I think it could use a little more time.
+Dialogue: 0,0:14:48.87,0:14:51.99,Main,Nadeshiko,0000,0000,0000,,I never knew you could warm \Nup packed meals this way.
+Dialogue: 0,0:14:52.41,0:14:55.39,Main,Haruka,0000,0000,0000,,Outdoor cooking seemed hard.
+Dialogue: 0,0:14:55.88,0:14:57.63,Main,Haruka,0000,0000,0000,,It might not be authentic, but...
+Dialogue: 0,0:14:58.25,0:14:59.50,Main,Nadeshiko,0000,0000,0000,,That's not true.
+Dialogue: 0,0:15:00.01,0:15:03.39,Main,Nadeshiko,0000,0000,0000,,I love having instant noodles when I camp.
+Dialogue: 0,0:15:06.63,0:15:10.13,Main,Nadeshiko,0000,0000,0000,,Now, I'll let you have some of my favorite...
+Dialogue: 0,0:15:11.13,0:15:13.64,Main,Nadeshiko,0000,0000,0000,,Fire-roasted sweet potato!
+Dialogue: 0,0:15:14.00,0:15:16.28,Main,Nadeshiko,0000,0000,0000,,I think they turned out good.
+Dialogue: 0,0:15:18.59,0:15:20.22,Main,Haruka,0000,0000,0000,,It's so sweet!
+Dialogue: 0,0:15:20.63,0:15:25.14,Main,Nadeshiko,0000,0000,0000,,All I did was wrap it in foil \Nand put it in the fire.
+Dialogue: 0,0:15:25.14,0:15:27.96,Main,Takuto,0000,0000,0000,,Did you use high-quality potatoes for this?
+Dialogue: 0,0:15:27.96,0:15:29.03,Main,Nadeshiko,0000,0000,0000,,No.
+Dialogue: 0,0:15:29.03,0:15:33.53,Main,Text,0000,0000,0000,,{\fnComic Sans MS\shad0\fs20\b1\an8\c&H424545&\3c&HF3F3F1&\pos(232,39.714)}Sweet Potatoes\N\N\N\N\N\N{\c&H4E42AA&\fs18}100{\c&H424545&} yen per bag
+Dialogue: 0,0:15:29.03,0:15:33.53,Main,Text,0000,0000,0000,,{\fnArial\shad0\fs16\b1\an8\frx30\fry-20\c&H1D1D1F&\bord0\3c&HF3F3F1&\pos(80,248.857)}Sweet Potatoes
+Dialogue: 0,0:15:29.03,0:15:33.53,Main,Text,0000,0000,0000,,{\fnArial\shad0\fs16\b1\an8\c&H1D1D1F&\bord0\frx30\3c&HF3F3F1&\pos(249.714,256.286)}Sweet Potatoes
+Dialogue: 0,0:15:29.03,0:15:33.53,Main,Text,0000,0000,0000,,{\fnArial\frx20\shad0\fs14\b1\an8\c&H1D1D1F&\bord0\3c&HF3F3F1&\pos(412,285.429)}Sweet Potatoes
+Dialogue: 0,0:15:29.03,0:15:33.53,Main,Text,0000,0000,0000,,{\fnArial\shad0\fs14\frx30\fay-.1\b1\an8\c&H1D1D1F&\bord0\3c&HF3F3F1&\pos(528.571,299.714)}Sweet Potatoes
+Dialogue: 0,0:15:29.34,0:15:31.71,Main,Nadeshiko,0000,0000,0000,,They were on sale at the supermarket.
+Dialogue: 0,0:15:31.71,0:15:33.11,Main,Haruka,0000,0000,0000,,Huh...
+Dialogue: 0,0:15:34.48,0:15:36.62,Main_Italics,Haruka,0000,0000,0000,,I never knew it was so easy.
+Dialogue: 0,0:15:37.67,0:15:40.73,Main,Nadeshiko,0000,0000,0000,,You could get started\N just grilling meat, really.
+Dialogue: 0,0:15:40.73,0:15:43.54,Main,Nadeshiko,0000,0000,0000,,Camp cooking is fun.
+Dialogue: 0,0:15:44.21,0:15:47.86,Main,Nadeshiko,0000,0000,0000,,And even if you mess up and end up \Nwith something weird, it's still fun.
+Dialogue: 0,0:15:49.55,0:15:51.62,Main,Takuto,0000,0000,0000,,The carrot turned black!
+Dialogue: 0,0:15:51.62,0:15:53.79,Main,Nadeshiko,0000,0000,0000,,Y-You're right! I overcooked it!
+Dialogue: 0,0:15:54.81,0:15:55.59,Main,Nadeshiko,0000,0000,0000,,It's so bitter!
+Dialogue: 0,0:15:55.59,0:15:57.00,Main,Nadeshiko,0000,0000,0000,,It's charred to ash!
+Dialogue: 0,0:15:58.33,0:15:59.93,Main,Takuto,0000,0000,0000,,Yuck!
+Dialogue: 0,0:16:00.19,0:16:01.52,Main,,0000,0000,0000,,This might be okay...
+Dialogue: 0,0:16:01.52,0:16:03.14,Main,Takuto,0000,0000,0000,,I can't eat this! It's too bitter!
+Dialogue: 0,0:16:03.14,0:16:04.94,Main,Nadeshiko,0000,0000,0000,,This is how grown-ups like it!
+Dialogue: 0,0:16:05.23,0:16:06.94,Main,Dad,0000,0000,0000,,Haruka? Hiroto?
+Dialogue: 0,0:16:06.94,0:16:07.93,Main,Takuto,0000,0000,0000,,Dad!
+Dialogue: 0,0:16:07.93,0:16:10.68,Main,Dad,0000,0000,0000,,You've been gone for a while. I got worried.
+Dialogue: 0,0:16:10.68,0:16:12.91,Main,Haruka,0000,0000,0000,,Oh... sorry.
+Dialogue: 0,0:16:12.91,0:16:15.20,Main,Dad,0000,0000,0000,,You'll have to excuse my kids.
+Dialogue: 0,0:16:15.37,0:16:16.63,Main,Nadeshiko,0000,0000,0000,,Oh, not at all.
+Dialogue: 0,0:16:16.63,0:16:18.38,Main,Nadeshiko,0000,0000,0000,,I was the one who invited them.
+Dialogue: 0,0:16:18.92,0:16:21.25,Main,Takuto,0000,0000,0000,,Hey, try this.
+Dialogue: 0,0:16:27.93,0:16:29.55,Main,Dad,0000,0000,0000,,It's a bit bitter...
+Dialogue: 0,0:16:34.07,0:16:36.29,Main,Takuto,0000,0000,0000,,Well, thank you for the food.
+Dialogue: 0,0:16:36.29,0:16:38.21,Main,Nadeshiko,0000,0000,0000,,You're very welcome.
+Dialogue: 0,0:16:38.21,0:16:39.96,Main,Takuto,0000,0000,0000,,Bye, Onee-chan!
+Dialogue: 0,0:16:39.96,0:16:41.17,Main,Nadeshiko,0000,0000,0000,,Bye.
+Dialogue: 0,0:16:41.47,0:16:42.78,Main,Haruka,0000,0000,0000,,Bye!
+Dialogue: 0,0:16:41.47,0:16:43.48,Main,Text,0000,0000,0000,,{\fnArial\fs18\b1\shad0\bord0\fax.5\frz10\pos(321.429,141.143)}No signal
+Dialogue: 0,0:16:43.86,0:16:46.79,Main_Italics,Rin,0000,0000,0000,,So she really was just out of range.
+Dialogue: 0,0:16:47.92,0:16:50.40,Main_Italics,Rin,0000,0000,0000,,And she's already made friends.
+Dialogue: 0,0:16:51.48,0:16:54.24,Main_Italics,Rin,0000,0000,0000,,Nadeshiko's amazing.
+Dialogue: 0,0:16:56.24,0:16:59.99,Main,Haruka,0000,0000,0000,,Dad, I think I'll cook something\N the next time we come.
+Dialogue: 0,0:17:00.26,0:17:02.27,Main,Haruka,0000,0000,0000,,Even if it's something simple.
+Dialogue: 0,0:17:03.65,0:17:04.78,Main,Dad,0000,0000,0000,,Sounds good.
+Dialogue: 0,0:17:05.76,0:17:08.65,Main,Dad,0000,0000,0000,,Why don't we come with Mom next time?
+Dialogue: 0,0:17:08.65,0:17:09.52,Main,Haruka,0000,0000,0000,,Yeah!
+Dialogue: 0,0:17:11.56,0:17:14.82,Main_Italics,Rin,0000,0000,0000,,I should have just camped at Amehata.
+Dialogue: 0,0:17:15.82,0:17:17.53,Main_Italics,Rin,0000,0000,0000,,I'll have dinner on the way back...
+Dialogue: 0,0:17:29.97,0:17:32.86,Main,Takuto,0000,0000,0000,,Dad, are there deer or anything around here?
+Dialogue: 0,0:17:32.86,0:17:34.53,Main,Dad,0000,0000,0000,,I'm not sure...
+Dialogue: 0,0:17:36.16,0:17:39.38,Main,Rin,0000,0000,0000,,S-Sakura-san! You're here, too?
+Dialogue: 0,0:17:39.93,0:17:42.54,Main,Onee-chan,0000,0000,0000,,I'm sorry. Did I scare you?
+Dialogue: 0,0:17:42.94,0:17:46.50,Main,Onee-chan,0000,0000,0000,,Were you worried about Nadeshiko?
+Dialogue: 0,0:17:48.31,0:17:50.58,Main,Rin,0000,0000,0000,,Well, I guess...
+Dialogue: 0,0:17:51.17,0:17:54.48,Main,Rin,0000,0000,0000,,It was partly my fault for \Nsuggesting things, so...
+Dialogue: 0,0:17:56.08,0:17:58.28,Main,Onee-chan,0000,0000,0000,,Thanks, Rin-chan.
+Dialogue: 0,0:18:00.21,0:18:03.03,Main,Rin,0000,0000,0000,,What are you going to do now, Sakura-san?
+Dialogue: 0,0:18:03.03,0:18:04.21,Main,Onee-chan,0000,0000,0000,,I'm going home.
+Dialogue: 0,0:18:04.21,0:18:06.31,Main,Onee-chan,0000,0000,0000,,She seems all right on her own.
+Dialogue: 0,0:18:06.71,0:18:08.35,Main,Onee-chan,0000,0000,0000,,What about you?
+Dialogue: 0,0:18:08.35,0:18:09.89,Main,Rin,0000,0000,0000,,I'm leaving, too.
+Dialogue: 0,0:18:10.57,0:18:13.14,Main,Rin,0000,0000,0000,,This is Nadeshiko's solo camping trip.
+Dialogue: 0,0:18:16.94,0:18:18.01,Main,Rin,0000,0000,0000,,Um...
+Dialogue: 0,0:18:18.01,0:18:20.82,Main,Rin,0000,0000,0000,,Since we're here, why don't we visit the top?
+Dialogue: 0,0:18:21.16,0:18:23.79,Main,Rin,0000,0000,0000,,I heard this place is \Nfamous for its nightscape.
+Dialogue: 0,0:18:24.51,0:18:25.57,Main,Onee-chan,0000,0000,0000,,Sounds good.
+Dialogue: 0,0:18:28.85,0:18:33.82,Main,Onee-chan,0000,0000,0000,,Wow... This is a pretty amazing night view.
+Dialogue: 0,0:18:33.82,0:18:34.74,Main,Rin,0000,0000,0000,,It is.
+Dialogue: 0,0:18:34.74,0:18:41.11,Main,Nadeshiko,0000,0000,0000,,Lake Motosu, home of yummy curry noodles...
+Dialogue: 0,0:18:39.02,0:18:40.71,Main,,0000,0000,0000,,Ack! Nadeshiko!
+Dialogue: 0,0:18:51.21,0:18:53.22,Main,Nadeshiko,0000,0000,0000,,It really is pretty!
+Dialogue: 0,0:18:55.43,0:18:56.64,Main,Nadeshiko,0000,0000,0000,,All right.
+Dialogue: 0,0:19:05.36,0:19:07.34,Main,Rin,0000,0000,0000,,What do you think she's doing?
+Dialogue: 0,0:19:07.34,0:19:09.60,Main,Onee-chan,0000,0000,0000,,Maybe her phone broke.
+Dialogue: 0,0:19:18.88,0:19:19.63,Main,Text,0000,0000,0000,,{\fnArial\fs18\b1\shad0\bord0\fax.5\frz12\pos(362,142.286)}No signal
+Dialogue: 0,0:19:29.39,0:19:30.89,Main,Text,0000,0000,0000,,{\fs10\fnArial\bord1\frz-2\shad0\pos(474.286,107.714)\c&H848484&\3c&HF5F5F5&}Nadeshiko
+Dialogue: 0,0:19:40.38,0:19:41.91,Main,Rin,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:19:47.91,0:19:51.92,Texting,Text,0000,0000,0000,,{\an1\fs14\fnArial\frz-4\pos(231.714,36.571)\c&H747474&}I'm out of range, but solo camping is fun!
+Dialogue: 0,0:19:54.60,0:19:58.14,Main,Onee-chan,0000,0000,0000,,Rin-chan, why don't we go into town?
+Dialogue: 0,0:19:58.72,0:20:00.20,Main,Onee-chan,0000,0000,0000,,I'll buy you dinner.
+Dialogue: 0,0:20:01.60,0:20:02.32,Main,Rin,0000,0000,0000,,Okay.
+Dialogue: 0,0:20:27.04,0:20:35.58,Main,Nadeshiko,0000,0000,0000,,I dream on...
+Dialogue: 0,0:22:37.05,0:22:39.54,Inu Inu Inuko-san,Chiaki,0000,0000,0000,,Inu Inu Inuko-san
+Dialogue: 0,0:22:37.84,0:22:39.54,Main,Chiaki,0000,0000,0000,,Inu Inu Inuko-san!
+Dialogue: 0,0:22:40.61,0:22:43.75,Main,Aoi,0000,0000,0000,,Caribou-kun is so cute.
+Dialogue: 0,0:22:43.89,0:22:46.89,Main,Saito,0000,0000,0000,,You sure do like Caribou-kun, Aoi-chan.
+Dialogue: 0,0:22:46.89,0:22:50.01,Main,Aoi,0000,0000,0000,,I wish we had one at the Minobu branch.
+Dialogue: 0,0:22:50.24,0:22:53.51,Main,Saito,0000,0000,0000,,I heard they sell plushies \Nat the Minobu Caribou.
+Dialogue: 0,0:22:53.70,0:22:54.76,Main,Aoi,0000,0000,0000,,No way.
+Dialogue: 0,0:22:54.76,0:22:58.02,Main,Aoi,0000,0000,0000,,It's got to be life-sized so you can hug it.
+Dialogue: 0,0:22:58.22,0:23:01.92,Main,Chiaki,0000,0000,0000,,I heard you can buy the giant Caribou-kun.
+Dialogue: 0,0:23:01.92,0:23:03.52,Main,Aoi,0000,0000,0000,,What?! Really?!
+Dialogue: 0,0:23:04.60,0:23:07.42,Main_Italics,Aoi,0000,0000,0000,,We're at the campsite, Caribou-kun.
+Dialogue: 0,0:23:07.42,0:23:08.78,Main_Italics,Caribou-sama,0000,0000,0000,,Indeed.
+Dialogue: 0,0:23:07.42,0:23:09.51,Pinecone says,Caribou-sama,0000,0000,0000,,{\an8\pos(145,5)\fad(250,920)}Indeed
+Dialogue: 0,0:23:09.57,0:23:12.50,Main_Italics,Aoi,0000,0000,0000,,The campfire's so pretty,\Nisn't it, Caribou-kun?
+Dialogue: 0,0:23:12.43,0:23:14.47,Pinecone says,Caribou-sama,0000,0000,0000,,{\an8\pos(145,5)\fad(250,920)}Indeed
+Dialogue: 0,0:23:12.50,0:23:13.53,Main_Italics,Caribou-sama,0000,0000,0000,,Indeed.
+Dialogue: 0,0:23:14.54,0:23:16.95,Main_Italics,Aoi,0000,0000,0000,,Goodnight, Caribou-kun.
+Dialogue: 0,0:23:16.81,0:23:18.56,Pinecone says,Caribou-sama,0000,0000,0000,,{\an8\pos(145,5)\fad(250,980)}Indeed
+Dialogue: 0,0:23:16.95,0:23:18.40,Main_Italics,Caribou-sama,0000,0000,0000,,Indeed.
+Dialogue: 0,0:23:22.04,0:23:25.04,Main,Text,0000,0000,0000,,{\fnArial\fs12\frz1\shad0\3c&HF9FBF9&\c&H383838&\an8\pos(190,228)}Caribou-kun
+Dialogue: 0,0:23:22.99,0:23:24.25,Main,Aoi,0000,0000,0000,,What did I expect?
 Dialogue: 0,0:23:27.80,0:23:35.26,Next Ep,Text,0000,0000,0000,,{\fad(850,250)}Next Episode
-Dialogue: 0,0:23:27.80,0:23:35.26,Next Ep Title,Text,0000,0000,0000,,{\fad(850,250)}Camping Alone
+Dialogue: 0,0:23:27.80,0:23:35.26,Next Ep Title,Text,0000,0000,0000,,{\fad(850,250)\c&HDACC6F&}Winter's {\c&HFFFFFF&}End {\c&H4C85E7&}and {\c&HFFFFFF&}the {\c&H4C85E7&}Day{\c&HFFFFFF&} of Departure
 Dialogue: 0,0:23:34.78,0:23:41.26,sign_33939_243_When_camping___,,0000,0000,0000,,{\fad(500,1)}When camping...
 Dialogue: 0,0:23:34.78,0:23:41.26,sign_34047_283_Missing,,0000,0000,0000,,{\fad(500,1)\pos(373,120)}Always mind the campsite \Nand facility rules. Don't forget to \Ntake care of fires and your trash!
 Dialogue: 0,0:23:34.78,0:23:41.26,sign_34047_283_Missing,,0000,0000,0000,,{\fad(500,1)\pos(373,250)}It gets cold during the winter. \NStay warm and be well-prepared!
